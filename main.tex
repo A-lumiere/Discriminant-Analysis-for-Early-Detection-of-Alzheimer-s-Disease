@@ -1,0 +1,219 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[letterpaper, top = 2 in, right = 1.2in, left = 1.2 in, bottom = 1 in,  headheight=95pt, headsep=30pt]{geometry}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{caption}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{tabularx}
+\usepackage{eso-pic}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[backend = biber, style = apa]{biblatex}
+\addbibresource{references.bib}
+
+% Customization
+% Document Customization
+\setlength{\parindent}{0.5 in}
+\titleformat{\section}[block]{\doublespacing\bfseries\centering}{}{0pt}{}
+\titleformat{\subsection}[block]{\doublespacing\bfseries}{}{0pt}{}
+\titleformat{\subsubsection}[block]{\doublespacing\bfseries}{}{0pt}{}
+\titleformat{\subsubsubsection}[block]{\doublespacing\bfseries}{}{0pt}{}
+
+\newcommand{\verticallineinmargin}{
+    \AddToShipoutPictureBG*{
+        \AtPageLowerLeft{
+            % Adjust the positions and lengths of the lines here
+            \put(72,0){\line(0,1){842}}  % Left margin line
+            \put(540,0){\line(0,1){842}} % Right margin line
+        }
+    }
+}
+
+\newcommand{\horizontallinemargin}{
+    \AddToShipoutPictureBG*{
+        \AtPageLowerLeft{
+            \put(0, 60){\line(1, 0){700}}
+            \put(0, 710){\line(1,0){700}}
+            \put(0, 685){\line(1,0){700}}
+            \put(0, 35){\line(1,0){700}}
+        }
+    }
+}
+
+% Header and Footer Customization
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{
+    \verticallineinmargin
+    \horizontallinemargin
+    \protect\begin{minipage}{\textwidth}
+        \centering
+        \includegraphics[width = 50pt]{PUPLogo.png} \\
+        \vspace*{0.6 cm}
+        \textbf{POLYTECHNIC UNIVERSITY OF THE PHILIPPINES}
+    \end{minipage}
+}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+\begin{titlepage}
+    \thispagestyle{fancy}
+    \fancyfoot[C]{\textcolor{white}{\thepage}}
+    \centering
+    \vspace*{2cm}  % Adjust vertical space from the top
+    \textbf{Linear and Quadratic Discriminant Analysis of Alzheimer's and Non-Alzheimer's Patients
+    Based on Lifestyle Factors, Clinical Measurements, and Cognitive and Functional Assessments}
+    
+    \vspace*{4cm} 
+    \normalsize
+    In partial fulfillment of the requirements in \\ 
+    STAT 20253: Multivariate Analysis
+
+    \vspace*{3cm}
+    By \\ [0.5 cm]
+    Almer John Sta. Ines \\ [0.3 cm]
+    Dencie Mae Saguano \\ [0.3 cm]
+    Jerolle Nonato \\ [0.3 cm]
+    Joy Ellen Mae Yangyang \\ [0.3 cm]
+    Juan Raphael Pimentel \\ [0.3 cm]
+    Roldan Libay Jr. 
+    \vfill
+    \textbf{2025}
+\end{titlepage}
+
+% Table of Contents
+\newgeometry{top=2in, bottom=1in, left=1.2in, right=1.2in}
+\renewcommand{\contentsname}{TABLE OF CONTENTS}
+\pagenumbering{roman}
+\doublespacing
+\tableofcontents
+
+% Chapter 1
+\restoregeometry
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\newpage
+
+\section{CHAPTER I \\ THE PROBLEM AND ITS SETTING}
+\doublespacing
+\noindent
+
+This chapter contains the introduction, statements of the problem, research hypothesis, 
+significance of the study, scope and limitations, and definition of terms. 
+
+% Introduction
+\subsection{Introduction}
+\noindent
+
+Every three seconds, someone in the world develops dementia, adding to the more than 55 million people already 
+living with the condtion as of 2020 (\cite{alzint_dementia_statistics}). This number is expected to nearly double 
+every 20 years, reaching 78 million in 2030 and a staggering 139 million by 2050. Alzheimer's disease (AD) the most
+common cause of dementia, is a progressive brain disorder that gradually affects memory, thinking skills, and the ability
+to carry out everyday tasks (\cite{AlzheimersAssociation2021}). As the prevalence of AD continues to rise, it affects people not only altering their lives 
+but also placing an emotional and financial strain on families and healthcare system. Early detection is crucial as it allows for 
+timely interventions, potential treatments, and better supportfor both patients and caregivers (\cite{Dubois2016}). However, diagnosing AD in its early stages remains challenging, 
+as its symptoms often overlap with other cognitive conditions, making it difficult to distinguish from normal aging or mild cognitive impairment (\cite{Jack2018}). Understanding the key
+indicators of AD can help improve early diagnosis and lead to better patient outcomes.
+
+A study by Livingston et al. (2020) suggests that lifestyle factors, medical history, clinical measurements, and cognitive and functional assessments can provide essential insights into the
+early idenitifaction of Alzheimer's disease. Lifestyle factors, such as Body Mass Index (BMI), smoking status, alcohol consumption, physical activity, diet quality, and sleep quality can impact 
+the risk of developing AD (\cite{nih_healthy_lifestyle}). Additionally, certian medical conditions, including hypertension, diabetes, cardiovascular, diseases, depression, family history of AD, and
+head injury have been linked to increased susceptability to AD (\cite{Kivipelto2018}). Clinical measurements, particularly cardiovascular health indicators, have been increasingly recognized as significant
+risk factors for the disease. Moreover, a study conducted by Leszek et al. (2020) suggests that cardiovascular diseases can contribute to the development and progression of AD by impairing blood flow to the brain
+and causing inflammation (\cite{Leszek2021}). Functional assessments, which evaluate how well a person can manage daily tasks and adjust to cognitive changes, can also be an important tool in detecting early signs of AD. (\cite{sperling2011})
+
+The effectiveness of classification models in predicting AD is crucial for developing reliable diagnostic tools. LDA and QDA are two widely used statistical techniques for classification problems. LDA assumes equal covariance structures
+among groups, making it more effective when the assumption holds, while QDA relaxes this assumption, allowing for more flexibility in classification (\cite{elements_statistical_learning})
+
+The study aims to investigate significant differences between Alzheimer's patients and Non-Alzheimer's patients concerning lifestyle factor, clinical measurements, and cognitive and functional assessments. Additionally, it seeks to identify 
+substantial indicators of AD and compare the discriminative power of LDA and QDA in early prediction. By analyzing there aspects, this research contributes to the development of more accurate and efficient classification models for early AD 
+diagnosis. 
+
+\subsection{Objectives}
+\noindent
+
+The general objective of the study is to accurately discriminate Alzheimer's patients to Non-Alzheimer's patients based on their lifestyle factors, clinical measurements, and cognitive and functional assessment.
+
+Specifically, it aims to achieve the following objectives. 
+
+\begin{enumerate}
+    \item To identify which clinical indicators can effectively discriminate Alzheimer's patients to Non-Alzheimer's patients. 
+    \item To optimize a discriminant classification model through feature reduction. 
+    \item To compare the discriminative power of LDA and QDA for an early prediction of AD. 
+\end{enumerate}
+
+\subsection{Statements of the Problem}
+\noindent
+
+Following the mentioned objectives, the study sought to answer the following questions. 
+\begin{enumerate}
+    \item Are there significant differences between Alzheimer's and Non-Alzheimer's patients in terms of:
+    \begin{enumerate}
+        \item Lifestyle Factors
+        \item Clinical Measurements
+        \item Cognitive and Functional Assessment
+    \end{enumerate}
+    \item What are the substantial indicators of AD? in terms of: 
+    \begin{enumerate}
+        \item Lifestyle Factors
+        \item Clinical Measurements
+        \item Cognitive and Functional Assessment
+    \end{enumerate}
+    \item How do the discriminative powers of LDA and QDA compare in the early prediction of AD?
+\end{enumerate}
+
+\subsection{Significance of the Study}
+\noindent
+
+This research aims to develop a classification model for the early prediction of AD by analyzing key factors such as lifestyle, clinical measures, and cognitive and functional assessments. 
+The findings of this study will be significant to the following sectors: 
+
+\textbf{Healthcare Practitioner and Neurologist}. This study will provide a data-drive aproach for early AD prediction, aiding in timely intervention and personalized treatment plan. Furthermore, 
+this research will enhance the understanding of the most substantial indicators of AD based on statistical multivariate models. 
+
+\textbf{Researchers and Data Scientist}. The study will contribute to the growing field of medical data analysis by exploring the effectiveness of LDA and QDA in disease membership classification. It 
+will serve as a foundation for the future studies integrating machine learning and statistical methods in healthcare analytics which will potentially lead to more advanced diagnostic tools. 
+
+\textbf{Patients and Families}. This study will benefit them as early detection tools can help them prepare for disease management and necessary lifestyle adjustments. This will also raise awareness of the 
+key lifestyle and medical factors that may contribute to the risk of AD and encourage them to have preventive measures that may delay the onset of disease.
+
+\textbf{Public Health and Policy Makers}. This study holds significance to the general public health sector by supporting the development of data-drive healthcare policies focused on early screening and intervention
+programs. The insights gained from this research can help allocate resources in AD research, prevention and treatment programs.
+
+\subsection{Scopes and Limitations}
+\noindent
+
+This study aims on developing a classification model for early prediction of AD using LDA and QDA. It focuses on analyzing and identifying important factors such as lifestyle habits, clinical measurements, and cognitive and 
+functional assessments to distinguish between Alzheimer's and Non-Alzheimer's patients. The study also compares the discriminative power of LDA and QDA in identifying substantial predictors of the disease and compares their 
+classification performance. 
+
+The dataset used in this study consists of 2,149 patient records with unique identifications ranging from 4571 to 6900. It includes demographic details, lifestyle factors, medical history, clinical measurements, cognitive and functional
+assessments, symptoms, and Alzheimer's diagnosis. Since the dataset is synthetically generated and designed from educational purposes, it provides a structured and controlled environment for analysis. However, because it is not based on real patient data, 
+it may not fully capture the variability and complexity of real-world medical dataset. 
+
+Despite its strengths, the study has certain limitations. Since the dataset is synthetic and not sourced from actual medical records, the generalizability of the findings to real-worlc clinical settings may be restricted. Additionally, LDA and QDA rely on certain
+statistical assumptions, like normality and homoscedasticity for LDA, which may effect their predictive accuracy in more complex datasets. This study also does not compare LDA and QDA with other machine learning models, limiting the analysis to just these two multivariate
+techniques. 
+
+\subsection{Defintion of Terms}
+
+\section{CHAPTER II \\ REVIEW OF LITERATURE AND STUDIES}
+
+
+\section{CHAPTER III \\ METHODOLOGY}
+
+\newpage
+\raggedleft
+\defbibheading{bibliography}[\refname]{\section*{\raggedleft#1}}
+\printbibliography
+
+\end{document}
