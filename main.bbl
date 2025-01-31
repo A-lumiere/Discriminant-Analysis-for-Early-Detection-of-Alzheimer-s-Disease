@@ -21,21 +21,18 @@
   \datalist[entry]{apa/apasortcite//global/global/global}
     \entry{AlzheimersAssociation2021}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4c88a1138ed688de70add198ff1fb0b9}{%
-           family={Association},
-           familyi={A\bibinitperiod},
-           given={Alzheimer's},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5166c1f92cd451ec7d754cf10455e75}{%
+           family={{Alzheimer's Association}},
+           familyi={A\bibinitperiod}}}%
       }
-      \strng{namehash}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{fullhash}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{fullhashraw}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{bibnamehash}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{authorbibnamehash}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{authornamehash}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{authorfullhash}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{authorfullhashraw}{4c88a1138ed688de70add198ff1fb0b9}
+      \strng{namehash}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{fullhash}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{fullhashraw}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{bibnamehash}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{authorbibnamehash}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{authornamehash}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{authorfullhash}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{authorfullhashraw}{f5166c1f92cd451ec7d754cf10455e75}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -58,6 +55,35 @@
       \endverb
       \verb{url}
       \verb https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12328
+      \endverb
+    \endentry
+    \entry{alzint_dementia_statistics}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=504b691c757304080cf9bfbc06e219c1}{%
+           family={{Alzheimers Disease International}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{504b691c757304080cf9bfbc06e219c1}
+      \strng{fullhash}{504b691c757304080cf9bfbc06e219c1}
+      \strng{fullhashraw}{504b691c757304080cf9bfbc06e219c1}
+      \strng{bibnamehash}{504b691c757304080cf9bfbc06e219c1}
+      \strng{authorbibnamehash}{504b691c757304080cf9bfbc06e219c1}
+      \strng{authornamehash}{504b691c757304080cf9bfbc06e219c1}
+      \strng{authorfullhash}{504b691c757304080cf9bfbc06e219c1}
+      \strng{authorfullhashraw}{504b691c757304080cf9bfbc06e219c1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-01-30}
+      \field{title}{Dementia statistics}
+      \verb{urlraw}
+      \verb https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/
+      \endverb
+      \verb{url}
+      \verb https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/
       \endverb
     \endentry
     \entry{Dubois2016}{article}{}{}
@@ -355,38 +381,6 @@
       \verb https://www.researchgate.net/publication/319770542_The_Elements_of_Statistical_Learning_Data_Mining_Inference_and_Prediction_Second_Edition_Springer_Series_in_Statistics
       \endverb
     \endentry
-    \entry{alzint_dementia_statistics}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4a5b76990fc63337c2482e9d02aa554d}{%
-           family={International},
-           familyi={I\bibinitperiod},
-           given={Alzheimer's\bibnamedelima Disease},
-           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{fullhash}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{fullhashraw}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{bibnamehash}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{authorbibnamehash}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{authornamehash}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{authorfullhash}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{authorfullhashraw}{4a5b76990fc63337c2482e9d02aa554d}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-01-30}
-      \field{title}{Dementia statistics}
-      \verb{urlraw}
-      \verb https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/
-      \endverb
-      \verb{url}
-      \verb https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/
-      \endverb
-    \endentry
     \entry{Jack2018}{article}{}{}
       \name{author}{20}{}{%
         {{un=0,uniquepart=base,hash=5159fc059695fe051d6b82a22c261f6d}{%
@@ -525,7 +519,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Alzheimer's \& Dementia}
+      \field{journaltitle}{Alzheimer's and Dementia}
       \field{number}{4}
       \field{title}{NIA-AA Research Framework: Toward a biological definition of {Alzheimer}'s disease}
       \field{volume}{14}
@@ -698,25 +692,20 @@
     \endentry
     \entry{nih_healthy_lifestyle}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=49b0af6e8a4bfd51bdadce413f5ce3f8}{%
-           family={Health},
-           familyi={H\bibinitperiod},
-           given={National\bibnamedelima Institutes},
-           giveni={N\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=0,
-           prefix={of},
-           prefixi={o\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=a0c92ca7f1c1b5b12cad08b3a843fcbb}{%
+           family={{National Institutes of Health}},
+           familyi={N\bibinitperiod}}}%
       }
-      \strng{namehash}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{fullhash}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{fullhashraw}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{bibnamehash}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{authorbibnamehash}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{authornamehash}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{authorfullhash}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{authorfullhashraw}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \field{sortinit}{o}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \strng{namehash}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{fullhash}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{fullhashraw}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{bibnamehash}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{authorbibnamehash}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{authornamehash}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{authorfullhash}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{authorfullhashraw}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labeldatesource}{nodate}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
@@ -898,21 +887,18 @@
   \datalist[entry]{apa/global//global/global/global}
     \entry{AlzheimersAssociation2021}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4c88a1138ed688de70add198ff1fb0b9}{%
-           family={Association},
-           familyi={A\bibinitperiod},
-           given={Alzheimer's},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5166c1f92cd451ec7d754cf10455e75}{%
+           family={{Alzheimer's Association}},
+           familyi={A\bibinitperiod}}}%
       }
-      \strng{namehash}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{fullhash}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{fullhashraw}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{bibnamehash}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{authorbibnamehash}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{authornamehash}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{authorfullhash}{4c88a1138ed688de70add198ff1fb0b9}
-      \strng{authorfullhashraw}{4c88a1138ed688de70add198ff1fb0b9}
+      \strng{namehash}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{fullhash}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{fullhashraw}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{bibnamehash}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{authorbibnamehash}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{authornamehash}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{authorfullhash}{f5166c1f92cd451ec7d754cf10455e75}
+      \strng{authorfullhashraw}{f5166c1f92cd451ec7d754cf10455e75}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -935,6 +921,35 @@
       \endverb
       \verb{url}
       \verb https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12328
+      \endverb
+    \endentry
+    \entry{alzint_dementia_statistics}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=504b691c757304080cf9bfbc06e219c1}{%
+           family={{Alzheimers Disease International}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{504b691c757304080cf9bfbc06e219c1}
+      \strng{fullhash}{504b691c757304080cf9bfbc06e219c1}
+      \strng{fullhashraw}{504b691c757304080cf9bfbc06e219c1}
+      \strng{bibnamehash}{504b691c757304080cf9bfbc06e219c1}
+      \strng{authorbibnamehash}{504b691c757304080cf9bfbc06e219c1}
+      \strng{authornamehash}{504b691c757304080cf9bfbc06e219c1}
+      \strng{authorfullhash}{504b691c757304080cf9bfbc06e219c1}
+      \strng{authorfullhashraw}{504b691c757304080cf9bfbc06e219c1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-01-30}
+      \field{title}{Dementia statistics}
+      \verb{urlraw}
+      \verb https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/
+      \endverb
+      \verb{url}
+      \verb https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/
       \endverb
     \endentry
     \entry{Dubois2016}{article}{}{}
@@ -1232,38 +1247,6 @@
       \verb https://www.researchgate.net/publication/319770542_The_Elements_of_Statistical_Learning_Data_Mining_Inference_and_Prediction_Second_Edition_Springer_Series_in_Statistics
       \endverb
     \endentry
-    \entry{alzint_dementia_statistics}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4a5b76990fc63337c2482e9d02aa554d}{%
-           family={International},
-           familyi={I\bibinitperiod},
-           given={Alzheimer's\bibnamedelima Disease},
-           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{fullhash}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{fullhashraw}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{bibnamehash}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{authorbibnamehash}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{authornamehash}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{authorfullhash}{4a5b76990fc63337c2482e9d02aa554d}
-      \strng{authorfullhashraw}{4a5b76990fc63337c2482e9d02aa554d}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-01-30}
-      \field{title}{Dementia statistics}
-      \verb{urlraw}
-      \verb https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/
-      \endverb
-      \verb{url}
-      \verb https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/
-      \endverb
-    \endentry
     \entry{Jack2018}{article}{}{}
       \name{author}{20}{}{%
         {{un=0,uniquepart=base,hash=5159fc059695fe051d6b82a22c261f6d}{%
@@ -1402,7 +1385,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Alzheimer's \& Dementia}
+      \field{journaltitle}{Alzheimer's and Dementia}
       \field{number}{4}
       \field{title}{NIA-AA Research Framework: Toward a biological definition of {Alzheimer}'s disease}
       \field{volume}{14}
@@ -1575,25 +1558,20 @@
     \endentry
     \entry{nih_healthy_lifestyle}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=49b0af6e8a4bfd51bdadce413f5ce3f8}{%
-           family={Health},
-           familyi={H\bibinitperiod},
-           given={National\bibnamedelima Institutes},
-           giveni={N\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=0,
-           prefix={of},
-           prefixi={o\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=a0c92ca7f1c1b5b12cad08b3a843fcbb}{%
+           family={{National Institutes of Health}},
+           familyi={N\bibinitperiod}}}%
       }
-      \strng{namehash}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{fullhash}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{fullhashraw}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{bibnamehash}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{authorbibnamehash}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{authornamehash}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{authorfullhash}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \strng{authorfullhashraw}{49b0af6e8a4bfd51bdadce413f5ce3f8}
-      \field{sortinit}{o}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \strng{namehash}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{fullhash}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{fullhashraw}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{bibnamehash}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{authorbibnamehash}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{authornamehash}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{authorfullhash}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \strng{authorfullhashraw}{a0c92ca7f1c1b5b12cad08b3a843fcbb}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labeldatesource}{nodate}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}

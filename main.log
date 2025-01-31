@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  31 JAN 2025 17:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  31 JAN 2025 18:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -949,6 +949,11 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
 [7]
+Overfull \hbox (16.66931pt too wide) in paragraph at lines 218--218
+\OT1/cmr/m/n/12 news -[] events / news -[] releases / combination -[] healthy -[] lifestyle -[] traits -[] may -[] substantially -[]
+ []
+
+
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
@@ -979,7 +984,7 @@ Here is how much of TeX's memory you used:
  319 hyphenation exceptions out of 8191
  84i,16n,93p,1300b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (10 pages, 166606 bytes).
+Output written on main.pdf (10 pages, 166591 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream

@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1738316213.87798 "main.bcf" "main.bbl" "main" 1738317472.22752 0
-  "main.bcf" 1738317472.16396 134366 97c20241c2506296850ea9e18a6c3f25 "pdflatex"
-  "references.bib" 1738316213.63755 13956 e63c29632e547eac099b5f2ecdc8cc29 ""
+["biber main"] 1738318666.92696 "main.bcf" "main.bbl" "main" 1738318670.82539 0
+  "main.bcf" 1738318670.75632 134366 97c20241c2506296850ea9e18a6c3f25 "pdflatex"
+  "references.bib" 1738318666.68519 13966 6385b5c12812db7ac6a99d9d9ed08e7b ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1738317471.29874 "/Users/almerstaines/Documents/Discriminant Analysis/Discriminant-Analysis-for-Early-Detection-of-Alzheimer-s-Disease/main.tex" "main.pdf" "main" 1738317472.22787 0
-  "/Users/almerstaines/Documents/Discriminant Analysis/Discriminant-Analysis-for-Early-Detection-of-Alzheimer-s-Disease/main.tex" 1738317470.14575 11684 69cc2a63d5e905a852ca8c869d2f2f3d ""
+["pdflatex"] 1738318669.6574 "/Users/almerstaines/Documents/Discriminant Analysis/Discriminant-Analysis-for-Early-Detection-of-Alzheimer-s-Disease/main.tex" "main.pdf" "main" 1738318670.82579 0
+  "/Users/almerstaines/Documents/Discriminant Analysis/Discriminant-Analysis-for-Early-Detection-of-Alzheimer-s-Disease/main.tex" 1738317646.02084 11684 66f882952287b190f2bafcd8a9615ae7 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -158,11 +158,11 @@
   "/usr/local/texlive/2024basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1733406046 2646837 aa80b0e8c5a51103797fe247ca53f51d ""
   "/usr/local/texlive/2024basic/texmf.cnf" 1710011638 628 8b896f7d9d41b43f4346b9091e52171f ""
   "PUPLogo.png" 1731943656.09216 122050 679fa461b7c88ed4abddfcd2f46bf349 ""
-  "main.aux" 1738317472.16226 3520 b6cee852fc6c0d1e302cd9864635515d "pdflatex"
-  "main.bbl" 1738316215.59878 74042 bc24a6a80c217589f8ae9a63a80265fa "biber main"
-  "main.run.xml" 1738317472.16462 2427 d1bfcd6d722f5bf4e724fdcb22d9bbf2 "pdflatex"
-  "main.tex" 1738317470.14575 11684 69cc2a63d5e905a852ca8c869d2f2f3d ""
-  "main.toc" 1738317472.16468 677 64b2f39d0d9720766de744f62b182d6c "pdflatex"
+  "main.aux" 1738318670.75444 3520 b2359952a815e5b20341114f7e0d6040 "pdflatex"
+  "main.bbl" 1738318668.65898 73290 0eca019e3beef27f3f90f5b6d19a730c "biber main"
+  "main.run.xml" 1738318670.75704 2427 d1bfcd6d722f5bf4e724fdcb22d9bbf2 "pdflatex"
+  "main.tex" 1738317646.02084 11684 66f882952287b190f2bafcd8a9615ae7 ""
+  "main.toc" 1738318670.75712 677 64b2f39d0d9720766de744f62b182d6c "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
