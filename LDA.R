@@ -1,0 +1,88 @@
+library(tidyverse)
+library(MASS)
+library(klaR)
+library(MVN)
+library(car)
+library(caret)
+
+set.seed(123)
+
+alzheimers_data <- read.csv("C:/Users/Juan/Desktop/YR 4 𝓹𝓮𝓽𝓮𝓻 𝓳𝓸𝓱𝓷 𝓸𝓿𝓮𝓻𝓵𝓸𝓪𝓭/MULTIVAR/archive/alzheimers_disease_data.csv")
+
+attach(alzheimers_data)
+
+View(alzheimers_data)
+
+alzheimers_data <- alzheimers_data %>% dplyr::select(-Gender, -Ethnicity, -EducationLevel,
+                                                     -Smoking, -FamilyHistoryAlzheimers,
+                                                     -CardiovascularDisease, -Depression,
+                                                     -Diabetes, -HeadInjury, -Hypertension,
+                                                     -MemoryComplaints, -BehavioralProblems,
+                                                     -Confusion, -Disorientation,
+                                                     -PersonalityChanges, -DifficultyCompletingTasks,
+                                                     -Forgetfulness)
+
+alzheimers_data <- alzheimers_data %>% dplyr::select(-DoctorInCharge)
+
+training_sample <- sample(c(TRUE, FALSE), nrow(alzheimers_data), replace = T, prob = c(0.8,0.2))
+train <- alzheimers_data[training_sample, ]
+test <- alzheimers_data[!training_sample, ]
+
+model1 <- lda(Diagnosis ~ ., train)
+model1
+
+plot(model1, col = as.integer(train$Diagnosis))
+
+partimat(as.factor(Diagnosis) ~ AlcoholConsumption + PhysicalActivity + DietQuality + SleepQuality + SystolicBP, data=train, method = "lda")
+
+partimat(as.factor(Diagnosis) ~ CholesterolLDL + CholesterolHDL + CholesterolTriglycerides + MMSE + FunctionalAssessment + ADL, data=train, method = "lda")
+
+lda.train <- predict(model1)
+train$lda <- lda.train$class
+table(train$lda,train$Diagnosis)
+
+lda.test <- predict(model1,test)
+test$lda <- lda.test$class
+table(test$lda,test$Diagnosis)
+
+#LDA kcross
+
+k_fold_cv_existing_model_lda <- function(alzheimers_data, model1, k = 10)
+  
+{
+  folds <- createFolds(alzheimers_data$Diagnosis, k = k, list = TRUE)
+  
+  accuracies <- numeric(k)
+  
+  for (i in 1:k) {
+    test_data <- alzheimers_data[folds[[i]], ]
+    train_data <- alzheimers_data[-folds[[i]], ]
+    
+    predictions <- predict(model1, newdata = test_data)$class
+    
+    accuracies[i] <- sum(predictions == test_data$Diagnosis) / nrow(test_data)
+    
+    cat("Fold", i, "- Accuracy:", accuracies[i], "\n")
+  }
+  
+  return(mean(accuracies))
+}
+
+avg_accuracy_lda <- k_fold_cv_existing_model_lda(alzheimers_data, model1, k = 10)
+print(paste("Average Accuracy from 10-fold CV using existing LDA model: ", avg_accuracy_lda))
+
+lda_cv_results <- data.frame(Fold = 1:10, Accuracy = c(0.7535,0.7860,0.7953,0.7860,
+                                                       0.7907,0.7488,0.7535,0.7767,0.7523,0.8419))
+
+lda_cv_results
+
+ggplot(lda_cv_results, aes(x= Fold, y = Accuracy)) +
+  geom_boxplot(fill = "steelblue", color  = "black") +
+  labs(title = " LDA Model: K-Fold CV Accuracy Distribution", y = "Accuracy",
+       x = "") + theme_minimal()
+
+ggplot(lda_cv_results, aes(x=Fold, y =Accuracy)) +
+  geom_line(color = "blue") +
+  geom_point(size = 3, color = "blue") +
+  labs(title = "LDA Model: Accuracy Across Folds", x = "Fold Number", y = "Accuracy") +
+  theme_minimal()
