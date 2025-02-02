@@ -6,4 +6,13 @@
 \contentsline {subsection}{\numberline {1.5}Scopes and Limitations}{5}{}%
 \contentsline {subsection}{\numberline {1.6}Defintion of Terms}{6}{}%
 \contentsline {section}{\numberline {2}CHAPTER II \\ REVIEW OF LITERATURE AND STUDIES}{6}{}%
-\contentsline {section}{\numberline {3}CHAPTER III \\ METHODOLOGY}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Factors Analyzing Alzheimer's Classification Using Discriminant Analysis}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Lifestyle Factors}{6}{}%
+\contentsline {subsection}{\numberline {2.3}Clinical Measurements}{7}{}%
+\contentsline {subsection}{\numberline {2.4}Cognitive and Functional Assessment}{7}{}%
+\contentsline {subsection}{\numberline {2.5}Comparative Analysis of LDA and QDA in Alzheimer's Prediction}{8}{}%
+\contentsline {subsection}{\numberline {2.6}Linear Discriminant Analysis (LDA)}{9}{}%
+\contentsline {subsection}{\numberline {2.7}Quadratic Discriminant Analysis (QDA)}{10}{}%
+\contentsline {subsection}{\numberline {2.8}Feature Selection Techniques in Discriminant Analysis}{11}{}%
+\contentsline {subsection}{\numberline {2.9}Lasso Regression}{11}{}%
+\contentsline {section}{\numberline {3}CHAPTER III \\ METHODOLOGY}{12}{}%

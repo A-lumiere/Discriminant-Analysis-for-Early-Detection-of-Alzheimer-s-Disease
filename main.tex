@@ -208,6 +208,88 @@ techniques.
 
 \section{CHAPTER II \\ REVIEW OF LITERATURE AND STUDIES}
 
+\subsection{Factors Analyzing Alzheimer's Classification Using Discriminant Analysis}
+\subsection {Lifestyle Factors}
+\noindent
+
+Lifestyle behaviors play a vital role in maintaining cognitive health and reducing the rish of Alzheimer's disease. Engaging in regular physical activity, for instance, has been linked to a lower likelihood of cognitive decline. \cite{Dominguez2021} emphasized that aerobic
+exercises not only boost brain function but can also help delay the onset of dementia. Similarly, following a healthy diet, particularly one rich in fruits, vegetables, and whole grains, like the Mediterranean diet, has been shown to enhance cognitive performance and decrease
+the risk of Alzheimer's. Maintaining an active social life also contributes significantly, as frequent social interactions and participation in activities foster cognitive resilience and lower the chanves of developing dementia. (\cite{Dominguez2021})
+
+Sleep quality and duration are emerging as important factors in Alzheimer's risk. Poor sleep habits, such as not getting enough rest or experiencing disrupted sleep, have been linked to a buildup of amylod-beta in the brain, a hallmark of Alzheimer's. \cite{Dominguez2021} highlights
+that good-quality sleep is essential for brain health. It helps clear out metabolic waste products and supports memory consolidation, making it a critical part of maintaining cognitive function.
+
+\subsection{Clinical Measurements}
+\noindent
+
+Recent advancements in biomarker research have greatly improved the ability to classigy and detect Alzheimer's disease at an early stage. Blood-based biomarkers, such as specific microRNAs (miRNAs), are showing promimse in identifying individuals at risk even before symptoms appear 
+(\cite{JAMA2019}). Genetics also play a key role,, with the APOE4 allele being a well-known risk factor. People who carry this variant have a higher chance of developing Alzheimer's, and integrating genetic information into classification models can enhance accuracy in predicting the
+disease (\cite{JAMA2019}).
+
+Health conditions like diabeetes, heart disease, and high blood pressure have been linked to a higher risk of developing Alzheimer's disease. These issues can worsen the impact of vascular problems on brain function and may even interact with Alzheimer-related changes in the brain. Taking
+steps to manage these conditions through healthy lifestyle choices and medical treatments, play a key role in lowering the overall risk of dementia (\cite{PMC2021}).
+
+\subsection{Cognitive and Functional Assessment}
+\noindent
+
+Cognitive tests play a crucial role in identifying and classifying Alzheimer's disease. Standatd assessments like the Mini-Menteal State Examination (MMSE) and the Montreal Cognitive Assessment (MoCA) help measure cognitive function in a structured way. The results from these tests provide 
+valuable insights that can improve classification models, making it easier to distinguish between healthy individuals, those with mild cognitive impairment, and those with Alzheimer's disease (\cite{PMC2021}). Functional assessment, on the other hand, focuses on understanding how well a person
+can handle everyday tasks and adapt to changes in their thinking abilities. Tools like the Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory (ADCS-ADL) and the Functional Activities Questionnaire (FAQ) are often used to evaluate these abilities (\cite{Custodio2022}). Supported by
+the study of \cite{Cummings2017} which stated that these assessments go beyond cognitive tests, offering a more complete picture of how Alzheimer;s disease affects a person's overall functioning and quality of life.
+
+\subsection{Comparative Analysis of LDA and QDA in Alzheimer's Prediction}
+\noindent
+
+Linear Discriminant Analysis (LDA) and Quadratic Discriminant Analysis (QDA) are commonly used classification techniques in medical datasets, particularly for Alzheimer's disease (AD). According to \cite{jain2022}, LDA stands out for its simplicity, especially when data is linearly seperable, while QDA
+handles more complex, non-linear patterns effectively but at a higher computational cost. This makes the choice between the two methods dependent on the nature of the dataset.
+
+Recent research emphasizes the strengths of both approaches. LDA is praised for its ease of interpretation and ability to identify key predictors, offering reliable and computationally efficient models. In contrast, QDA, with its ability to handle non-linearities, excels in sensitivity, especially in
+detecting early cognitive decline, but may sacrifice some interpretability (\cite{arbabshirani2017}). Studies show that LDA often has higher specificity, whereas QDA is more sensitive in distinguishing between healthy individuals and those with Alzheimer's (\cite{nguyen2020}).
+
+Model interpretability and computational complexity remain critical considerations. LDAs straightforward structure allows for a better understanding of variable relatkionships, making it a practical choice in clinical settings. On the other hand, QDA's flexibility can come at the cost of higher
+computational demands and reduced clarity in variable significance (\cite{wang2018}).
+
+\subsection{Linear Discriminant Analysis (LDA)}
+\noindent
+LDA was used as a classification method to predict Alzheimer's disease patients based on clinical biomarkers, neuroimaging data, and metabolic profiles. This technique has been utilized in several studies to enhance diagnostic accuracy and distinguish between Alzheimer's disease, mild cognitive impairment
+(MCI), and healthy controls. Data records mainly consisted of medical imaging data, metabolic biomarkers, and cognitive assessment scores, which were processed through feature selection and dimensionality reduction teechniques to enhance classification performance.
+
+LDA assumes that different classes (AD and non-AD groups) share the same covariance structure and constructss linear boundaries to maximize class separability. In the study by (\cite{le2020_lda_highdimensional}), an adapted LDA approach was implemented to handle high-dimensional medical datasetss, ensuring better feature selection and
+classification accuracy. Similarly, \cite{salasgonzalez2010_factor_analysis_lda} utilizied LDA in combination with factor analysis to select the most relevant features from 18F-FDG PET images, optimizing classification between Alzheimer's and control groups.
+
+The study by \cite{yilmaz2021_metabolic_biomarkers_ad} applied artificial intelligence and machine learning techniques alongside discriminant analysis to identify biomarkers associated with Alzheimer's progression. Feature selection was crucial in reducing redundancy and enhancing predictive capability. \cite{maroco2011_data_mining_dementia}
+conducted a comparative analysis between LDA, logistic regression, neural networks, support vector machines, classification trees, and random forests. They assessed model performance using key evaluation metrics, demonstrating that LDA achieved high accuracy in distringuishing AD patients from controls when optimized with feature selection.
+
+\subsection{Quadratic Discriminant Analysis (QDA)}
+\noindent
+
+QDA, unlike LDA, relaxes the assumption of shared covariance struvtures and allows each class to have its own covariance matric, making it suitable for datasets where feature dsitributions exhibit non-linearity. This flexibility enables QDA to better handle complex biomarker distributions in Alzheimer's disease classification.
+
+QDA has demonstrated strong classification performance in Alzheimer's research. Studies such as \cite{zhang2017_qda_neuroimaging} and \cite{pereira2020_qda_mri} explored the application of QDA in neuroimaging-based Alzheimer's diagnosis, showing that its ability to model class-specific covariance matrices led to improved classification precision
+and recall. Additionally, the work of \cite{maroco2011_data_mining_dementia} indicated that QDA often achieved higher F1-scores in datasets with more complex patterns compared to LDA.
+
+Furthermore, studies have shown that QDA performs well in scenarios where biomarker distributions exhibit high variability. For instance, \cite{lee2015_qda_mri_biomarker} demonstrated that QDA outperformed LDA in identifying Alzheimer's subtypes based on MRI-deived biomarkers, particularly in cases with overlapping clinical features. Similarly, 
+\cite{garciarodriguez2016_qda_csf} employed QDA to analyze cerebrospinal fluid biomarkers, showing significant improvements in classifying AD and MCI patients. The higher Area Under the Curve (AUC) values reported in these studies suggest that QDA provides superior discrimination between AD and non-AD cases when biomarker variability is high.
+
+\subsection{Feature Selection Techniques in Discriminant Analysis}
+\noindent
+\textbf{Recursive Feature Elimination (RFE)}
+\noindent
+
+RFE is a backward feature elimination technique that iteratively removes the least significant features based on their impact on model accuracy. This study implements RFE to systematically refinea feature subsets, ensuring that only the most releveant biomarkers contribute to classification. The process starts by training an initial model on all features,
+ranking their importance, and recursively eliminating the least informative ones until an optimal subset remains.
+
+Previous studies, such as \cite{balakrishnan2020_rfe_ann_ad}, combined RFE with artificial neural netwroks to identify critical features for Alzheimer's disease classification. Similarly, \cite{alshamlan2018_biomarker_gene_selection} demonstrated that RFE facilitates biomarker gene selection, improving classification peformance. In this study, RE is applied
+to clninical biomarkers, cognitive scores, and neuroimaging markers to eliminate redundant features, refine the input space, and mitigate overfitting, thereby enhancing the performance of LDA and QDA.
+
+\subsection{Lasso Regression}
+\noindent
+
+Lasso regression, a form of regularization, employs an L1 penalty constraint to shrink the coefficients of less relevant features to zero, effectively selecting only the most significant predictors. This study applies Lasso regression to ensure that the discriminant functions of LDA and QDA are derived from the most influential biomarkers while minimizing
+noise and improving model generalizability.
+
+\cite{gu2020_feature_selection_ad} evaluated Lasso regression as a feature selection method for Alzheimer's diagnosis, emphasizing its capacity to identify high-impact features while preserving interpretability. Additionally, \cite{spooner2020_ensemble_feature_selection} demonstrated Lasso's efficacy in biomarker discovery, enhancing model rrobustness in
+distinguishin between disease stages. by incorporating Lasso regression, this study aims to improve classification accuracy by retaining only the most essential biomarkers.
 
 \section{CHAPTER III \\ METHODOLOGY}
 
