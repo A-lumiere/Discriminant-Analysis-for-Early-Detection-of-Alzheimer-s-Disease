@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  4 FEB 2025 01:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  4 FEB 2025 01:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -779,13 +779,13 @@ Package biblatex Info: Reference segment=0 on input line 65.
 <PUPLogo.png, id=4, 183.084pt x 183.084pt>
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 89.
+Package pdftex.def Info: PUPLogo.png  used on input line 94.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 89.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 94.
 (/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 89.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 94.
  (/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -799,12 +799,12 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 [1{/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
  <./PUPLogo.png>]
-Overfull \hbox (2.9921pt too wide) in paragraph at lines 92--119
+Overfull \hbox (2.9921pt too wide) in paragraph at lines 97--124
 []  [] 
  []
 
 
-Overfull \hbox (20.40808pt too wide) in paragraph at lines 120--123
+Overfull \hbox (20.40808pt too wide) in paragraph at lines 125--128
 \OT1/cmr/bx/n/10.95 Keywords: \OT1/cmr/m/it/10.95 Lin-ear Dis-crim-i-nant Model, Quadratic Dis-crim-i-nant Model, Alzheimer's
  []
 
@@ -812,7 +812,7 @@ Overfull \hbox (20.40808pt too wide) in paragraph at lines 120--123
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 126.
+Package pdftex.def Info: PUPLogo.png  used on input line 131.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -873,7 +873,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 42.
+Package pdftex.def Info: PUPLogo.png  used on input line 41.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -890,7 +890,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 133.
+Package pdftex.def Info: PUPLogo.png  used on input line 138.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -903,7 +903,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 167.
+Package pdftex.def Info: PUPLogo.png  used on input line 172.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -918,7 +918,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 179.
+Package pdftex.def Info: PUPLogo.png  used on input line 184.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -931,7 +931,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 203.
+Package pdftex.def Info: PUPLogo.png  used on input line 208.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -944,7 +944,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 225.
+Package pdftex.def Info: PUPLogo.png  used on input line 230.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -957,7 +957,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 240.
+Package pdftex.def Info: PUPLogo.png  used on input line 245.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -970,7 +970,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 243.
+Package pdftex.def Info: PUPLogo.png  used on input line 246.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -983,7 +983,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 264.
+Package pdftex.def Info: PUPLogo.png  used on input line 267.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -996,7 +996,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 272.
+Package pdftex.def Info: PUPLogo.png  used on input line 275.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1009,7 +1009,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 282.
+Package pdftex.def Info: PUPLogo.png  used on input line 285.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1022,7 +1022,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 294.
+Package pdftex.def Info: PUPLogo.png  used on input line 297.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1035,7 +1035,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 304.
+Package pdftex.def Info: PUPLogo.png  used on input line 307.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1048,7 +1048,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 317.
+Package pdftex.def Info: PUPLogo.png  used on input line 320.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1058,7 +1058,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
 [12]
-Overfull \hbox (7.87367pt too wide) in paragraph at lines 329--331
+Overfull \hbox (7.87367pt too wide) in paragraph at lines 332--334
 []\OT1/cmr/m/n/12 Linear Dis-crim-i-nant Anal-y-sis (LDA) and Quadratic Dis-crim-i-nant Anal-y-sis (QDA)
  []
 
@@ -1066,7 +1066,7 @@ Overfull \hbox (7.87367pt too wide) in paragraph at lines 329--331
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 331.
+Package pdftex.def Info: PUPLogo.png  used on input line 334.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1079,7 +1079,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 342.
+Package pdftex.def Info: PUPLogo.png  used on input line 345.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1092,7 +1092,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 354.
+Package pdftex.def Info: PUPLogo.png  used on input line 357.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1105,7 +1105,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 366.
+Package pdftex.def Info: PUPLogo.png  used on input line 369.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1115,7 +1115,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
 [16]
-Overfull \hbox (14.67004pt too wide) in paragraph at lines 382--383
+Overfull \hbox (14.67004pt too wide) in paragraph at lines 385--386
 \OT1/cmr/m/n/12 noses, par-tic-u-larly for Alzheimer's dis-ease (AD). Alzheimer's, de-scribed by the Alzheimer's
  []
 
@@ -1123,7 +1123,7 @@ Overfull \hbox (14.67004pt too wide) in paragraph at lines 382--383
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 383.
+Package pdftex.def Info: PUPLogo.png  used on input line 386.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1136,7 +1136,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 385.
+Package pdftex.def Info: PUPLogo.png  used on input line 388.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1149,7 +1149,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 391.
+Package pdftex.def Info: PUPLogo.png  used on input line 394.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1159,7 +1159,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 413--415
+Underfull \hbox (badness 10000) in paragraph at lines 416--418
 
  []
 
@@ -1167,7 +1167,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 413--415
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 415.
+Package pdftex.def Info: PUPLogo.png  used on input line 418.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1180,7 +1180,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 456.
+Package pdftex.def Info: PUPLogo.png  used on input line 459.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1193,7 +1193,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 478.
+Package pdftex.def Info: PUPLogo.png  used on input line 481.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1206,7 +1206,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 491.
+Package pdftex.def Info: PUPLogo.png  used on input line 494.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1219,7 +1219,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 501.
+Package pdftex.def Info: PUPLogo.png  used on input line 504.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1232,13 +1232,13 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <QQ_Lifestyle.png, id=106, 1003.75pt x 893.3375pt>
 File: QQ_Lifestyle.png Graphic file (type png)
 <use QQ_Lifestyle.png>
-Package pdftex.def Info: QQ_Lifestyle.png  used on input line 512.
+Package pdftex.def Info: QQ_Lifestyle.png  used on input line 515.
 (pdftex.def)             Requested size: 352.6793pt x 313.88599pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 518.
+Package pdftex.def Info: PUPLogo.png  used on input line 521.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1251,18 +1251,18 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <QQ_Clinical Measures.png, id=111, 1003.75pt x 893.3375pt>
 File: QQ_Clinical Measures.png Graphic file (type png)
 <use QQ_Clinical Measures.png>
-Package pdftex.def Info: QQ_Clinical Measures.png  used on input line 519.
+Package pdftex.def Info: QQ_Clinical Measures.png  used on input line 522.
 (pdftex.def)             Requested size: 352.6793pt x 313.88599pt.
 <QQ_Cog and Funcs.png, id=112, 1003.75pt x 893.3375pt>
 File: QQ_Cog and Funcs.png Graphic file (type png)
 <use QQ_Cog and Funcs.png>
-Package pdftex.def Info: QQ_Cog and Funcs.png  used on input line 526.
+Package pdftex.def Info: QQ_Cog and Funcs.png  used on input line 529.
 (pdftex.def)             Requested size: 220.42372pt x 196.16681pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 527.
+Package pdftex.def Info: PUPLogo.png  used on input line 530.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1275,7 +1275,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 542.
+Package pdftex.def Info: PUPLogo.png  used on input line 545.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1288,13 +1288,13 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <Lifestyle Distributions.png, id=122, 1606.0pt x 893.3375pt>
 File: Lifestyle Distributions.png Graphic file (type png)
 <use Lifestyle Distributions.png>
-Package pdftex.def Info: Lifestyle Distributions.png  used on input line 565.
+Package pdftex.def Info: Lifestyle Distributions.png  used on input line 568.
 (pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 566.
+Package pdftex.def Info: PUPLogo.png  used on input line 569.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1307,13 +1307,13 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <Clinical Measures Distribution.png, id=128, 1606.0pt x 893.3375pt>
 File: Clinical Measures Distribution.png Graphic file (type png)
 <use Clinical Measures Distribution.png>
-Package pdftex.def Info: Clinical Measures Distribution.png  used on input line 579.
+Package pdftex.def Info: Clinical Measures Distribution.png  used on input line 582.
 (pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 580.
+Package pdftex.def Info: PUPLogo.png  used on input line 583.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1326,13 +1326,13 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <Cognitive and Functional Distributions.png, id=133, 1606.0pt x 602.25pt>
 File: Cognitive and Functional Distributions.png Graphic file (type png)
 <use Cognitive and Functional Distributions.png>
-Package pdftex.def Info: Cognitive and Functional Distributions.png  used on input line 589.
+Package pdftex.def Info: Cognitive and Functional Distributions.png  used on input line 592.
 (pdftex.def)             Requested size: 352.6793pt x 132.25647pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 595.
+Package pdftex.def Info: PUPLogo.png  used on input line 598.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1345,13 +1345,13 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <PartitionLDA.png, id=139, 4818.0pt x 4818.0pt>
 File: PartitionLDA.png Graphic file (type png)
 <use PartitionLDA.png>
-Package pdftex.def Info: PartitionLDA.png  used on input line 602.
+Package pdftex.def Info: PartitionLDA.png  used on input line 605.
 (pdftex.def)             Requested size: 352.6793pt x 352.65945pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 603.
+Package pdftex.def Info: PUPLogo.png  used on input line 606.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1364,7 +1364,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 613.
+Package pdftex.def Info: PUPLogo.png  used on input line 616.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1377,13 +1377,13 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <PartitionQDA.png, id=147, 4818.0pt x 4818.0pt>
 File: PartitionQDA.png Graphic file (type png)
 <use PartitionQDA.png>
-Package pdftex.def Info: PartitionQDA.png  used on input line 614.
+Package pdftex.def Info: PartitionQDA.png  used on input line 617.
 (pdftex.def)             Requested size: 352.6793pt x 352.65945pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 621.
+Package pdftex.def Info: PUPLogo.png  used on input line 624.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1396,13 +1396,13 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <Required Number of Features.png, id=151, 1606.0pt x 893.3375pt>
 File: Required Number of Features.png Graphic file (type png)
 <use Required Number of Features.png>
-Package pdftex.def Info: Required Number of Features.png  used on input line 626.
+Package pdftex.def Info: Required Number of Features.png  used on input line 629.
 (pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 635.
+Package pdftex.def Info: PUPLogo.png  used on input line 638.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1415,18 +1415,18 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <RFE Feature Selection.png, id=156, 1606.0pt x 893.3375pt>
 File: RFE Feature Selection.png Graphic file (type png)
 <use RFE Feature Selection.png>
-Package pdftex.def Info: RFE Feature Selection.png  used on input line 636.
+Package pdftex.def Info: RFE Feature Selection.png  used on input line 639.
 (pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
 <LDA_RFE.png, id=157, 540.51938pt x 214.55156pt>
 File: LDA_RFE.png Graphic file (type png)
 <use LDA_RFE.png>
-Package pdftex.def Info: LDA_RFE.png  used on input line 646.
+Package pdftex.def Info: LDA_RFE.png  used on input line 649.
 (pdftex.def)             Requested size: 352.6793pt x 139.99374pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 647.
+Package pdftex.def Info: PUPLogo.png  used on input line 650.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1439,13 +1439,13 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <QDA_RFE.png, id=162, 540.51938pt x 214.55156pt>
 File: QDA_RFE.png Graphic file (type png)
 <use QDA_RFE.png>
-Package pdftex.def Info: QDA_RFE.png  used on input line 656.
+Package pdftex.def Info: QDA_RFE.png  used on input line 659.
 (pdftex.def)             Requested size: 352.6793pt x 139.99374pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 664.
+Package pdftex.def Info: PUPLogo.png  used on input line 667.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1458,18 +1458,18 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <Coefficient vs Log Lambda.png, id=166, 1606.0pt x 893.3375pt>
 File: Coefficient vs Log Lambda.png Graphic file (type png)
 <use Coefficient vs Log Lambda.png>
-Package pdftex.def Info: Coefficient vs Log Lambda.png  used on input line 665.
+Package pdftex.def Info: Coefficient vs Log Lambda.png  used on input line 668.
 (pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
 <Binomial Deviance vs Log Lambda.png, id=167, 1606.0pt x 893.3375pt>
 File: Binomial Deviance vs Log Lambda.png Graphic file (type png)
 <use Binomial Deviance vs Log Lambda.png>
-Package pdftex.def Info: Binomial Deviance vs Log Lambda.png  used on input line 675.
+Package pdftex.def Info: Binomial Deviance vs Log Lambda.png  used on input line 678.
 (pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 676.
+Package pdftex.def Info: PUPLogo.png  used on input line 679.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1482,13 +1482,13 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <Lasso Feature Selection.png, id=172, 1417.295pt x 893.3375pt>
 File: Lasso Feature Selection.png Graphic file (type png)
 <use Lasso Feature Selection.png>
-Package pdftex.def Info: Lasso Feature Selection.png  used on input line 684.
+Package pdftex.def Info: Lasso Feature Selection.png  used on input line 687.
 (pdftex.def)             Requested size: 352.6793pt x 222.29785pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 688.
+Package pdftex.def Info: PUPLogo.png  used on input line 691.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1501,13 +1501,13 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <Lasso_Reduced_LDA.png, id=179, 1606.0pt x 893.3375pt>
 File: Lasso_Reduced_LDA.png Graphic file (type png)
 <use Lasso_Reduced_LDA.png>
-Package pdftex.def Info: Lasso_Reduced_LDA.png  used on input line 693.
+Package pdftex.def Info: Lasso_Reduced_LDA.png  used on input line 696.
 (pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 699.
+Package pdftex.def Info: PUPLogo.png  used on input line 702.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1520,13 +1520,13 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <Partimat_QDA_Lasso.png, id=184, 1606.0pt x 893.3375pt>
 File: Partimat_QDA_Lasso.png Graphic file (type png)
 <use Partimat_QDA_Lasso.png>
-Package pdftex.def Info: Partimat_QDA_Lasso.png  used on input line 704.
+Package pdftex.def Info: Partimat_QDA_Lasso.png  used on input line 707.
 (pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 710.
+Package pdftex.def Info: PUPLogo.png  used on input line 713.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1539,13 +1539,13 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 <Accuracy_Line_plots.png, id=189, 1491.5725pt x 893.3375pt>
 File: Accuracy_Line_plots.png Graphic file (type png)
 <use Accuracy_Line_plots.png>
-Package pdftex.def Info: Accuracy_Line_plots.png  used on input line 715.
+Package pdftex.def Info: Accuracy_Line_plots.png  used on input line 718.
 (pdftex.def)             Requested size: 352.6793pt x 211.21567pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 723.
+Package pdftex.def Info: PUPLogo.png  used on input line 726.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1556,32 +1556,14 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 [41 <./Accuracy_Line_plots.png>]
 
-LaTeX Warning: Command \textless invalid in math mode on input line 732.
+LaTeX Warning: Command \textless invalid in math mode on input line 735.
 
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 732.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 735.
 (/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 732.
-
-
-LaTeX Warning: Command \textless invalid in math mode on input line 732.
-
-
-LaTeX Warning: Command \textless invalid in math mode on input line 733.
-
-
-LaTeX Warning: Command \textless invalid in math mode on input line 733.
-
-
-LaTeX Warning: Command \textless invalid in math mode on input line 734.
-
-
-LaTeX Warning: Command \textless invalid in math mode on input line 734.
-
-
-LaTeX Warning: Command \textless invalid in math mode on input line 735.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 735.
 
 
 LaTeX Warning: Command \textless invalid in math mode on input line 735.
@@ -1597,12 +1579,30 @@ LaTeX Warning: Command \textless invalid in math mode on input line 737.
 
 
 LaTeX Warning: Command \textless invalid in math mode on input line 737.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 738.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 738.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 739.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 739.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 740.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 740.
 
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 750.
+Package pdftex.def Info: PUPLogo.png  used on input line 753.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1615,7 +1615,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 767.
+Package pdftex.def Info: PUPLogo.png  used on input line 770.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1625,24 +1625,11 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
 [43]
-Overfull \hbox (0.78471pt too wide) in paragraph at lines 768--769
+Overfull \hbox (0.78471pt too wide) in paragraph at lines 771--772
 []\OT1/cmr/m/n/12 Overall, for Alzheimer's dis-ease pre-dic-tion, Quadratic mod-els in gen-eral achieved
  []
 
 
-
-File: PUPLogo.png Graphic file (type png)
-<use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 782.
-(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
-
-Package fancyhdr Warning: \headheight is too small (95.0pt): 
-(fancyhdr)                Make it at least 98.06946pt, for example:
-(fancyhdr)                \setlength{\headheight}{98.06946pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
-
-[44]
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
@@ -1655,22 +1642,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[45]
-Overfull \hbox (8.41273pt too wide) in paragraph at lines 789--789
-[][]\OT1/cmr/m/n/12 Arbabshirani, M. R., Plis, S., Sui, J., & Cal-houn, V. D. (2017). A re-view on neuroimaging-
- []
-
-
-Overfull \hbox (20.50256pt too wide) in paragraph at lines 789--789
-\OT1/cmr/m/n/12 based clas-si-fi-ca-tion stud-ies and as-so-ci-ated fea-ture ex-trac-tion meth-ods for alzheimer's
- []
-
-
-Overfull \hbox (23.16878pt too wide) in paragraph at lines 789--789
-\OT1/cmr/m/n/12 net / publication / 374803499[]Alzheimer[]Disease[]Prediction[]Using[]Recursive[]Feature[]
- []
-
-
+[44]
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
@@ -1683,13 +1655,41 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
+[45]
+Overfull \hbox (8.41273pt too wide) in paragraph at lines 792--792
+[][]\OT1/cmr/m/n/12 Arbabshirani, M. R., Plis, S., Sui, J., & Cal-houn, V. D. (2017). A re-view on neuroimaging-
+ []
+
+
+Overfull \hbox (20.50256pt too wide) in paragraph at lines 792--792
+\OT1/cmr/m/n/12 based clas-si-fi-ca-tion stud-ies and as-so-ci-ated fea-ture ex-trac-tion meth-ods for alzheimer's
+ []
+
+
+Overfull \hbox (23.16878pt too wide) in paragraph at lines 792--792
+\OT1/cmr/m/n/12 net / publication / 374803499[]Alzheimer[]Disease[]Prediction[]Using[]Recursive[]Feature[]
+ []
+
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 791.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
 [46]
-Overfull \hbox (42.46231pt too wide) in paragraph at lines 789--789
+Overfull \hbox (42.46231pt too wide) in paragraph at lines 792--792
 \OT1/cmr/m/n/12 researchgate . net / publication / 361057550[]A[]Functional[]Assessment[]Tool[]to[]Distinguish[]
  []
 
 
-Overfull \hbox (18.93877pt too wide) in paragraph at lines 789--789
+Overfull \hbox (18.93877pt too wide) in paragraph at lines 792--792
 \OT1/cmr/m/it/12 Re-search\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 13\OT1/cmr/m/n/12 (11), 1200{1207. $https : / / doi . org / 10 . 2174 / 1567205013666160401115127$ 
  []
 
@@ -1697,7 +1697,7 @@ Overfull \hbox (18.93877pt too wide) in paragraph at lines 789--789
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 788.
+Package pdftex.def Info: PUPLogo.png  used on input line 791.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1710,7 +1710,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 788.
+Package pdftex.def Info: PUPLogo.png  used on input line 791.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1720,7 +1720,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
 [48]
-Overfull \hbox (7.67975pt too wide) in paragraph at lines 789--789
+Overfull \hbox (7.67975pt too wide) in paragraph at lines 792--792
 \OT1/cmr/m/n/12 Elements[]of[]Statistical[]Learning[]Data[]Mining[]Inference[]and[]Prediction[]Second[]
  []
 
@@ -1728,7 +1728,7 @@ Overfull \hbox (7.67975pt too wide) in paragraph at lines 789--789
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 788.
+Package pdftex.def Info: PUPLogo.png  used on input line 791.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1741,7 +1741,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 788.
+Package pdftex.def Info: PUPLogo.png  used on input line 791.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1751,7 +1751,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
 [50]
-Overfull \hbox (16.66931pt too wide) in paragraph at lines 789--789
+Overfull \hbox (16.66931pt too wide) in paragraph at lines 792--792
 \OT1/cmr/m/n/12 news -[] events / news -[] releases / combination -[] healthy -[] lifestyle -[] traits -[] may -[] substantially -[]
  []
 
@@ -1759,7 +1759,7 @@ Overfull \hbox (16.66931pt too wide) in paragraph at lines 789--789
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 788.
+Package pdftex.def Info: PUPLogo.png  used on input line 791.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1772,7 +1772,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 788.
+Package pdftex.def Info: PUPLogo.png  used on input line 791.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1785,7 +1785,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 790.
+Package pdftex.def Info: PUPLogo.png  used on input line 793.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1812,7 +1812,7 @@ Here is how much of TeX's memory you used:
  319 hyphenation exceptions out of 8191
  84i,17n,93p,1383b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/almerstaines/Library/texlive/2024basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (58 pages, 11947430 bytes).
+Output written on main.pdf (58 pages, 11947497 bytes).
 PDF statistics:
  275 PDF objects out of 1000 (max. 8388607)
  162 compressed objects within 2 object streams

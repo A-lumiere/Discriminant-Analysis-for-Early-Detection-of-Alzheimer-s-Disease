@@ -4,7 +4,6 @@
 \contentsline {subsection}{\numberline {1.3}Statements of the Problem}{3}{}%
 \contentsline {subsection}{\numberline {1.4}Significance of the Study}{4}{}%
 \contentsline {subsection}{\numberline {1.5}Scopes and Limitations}{5}{}%
-\contentsline {subsection}{\numberline {1.6}Definition of Terms}{6}{}%
 \contentsline {section}{\numberline {2}CHAPTER II \\ REVIEW OF LITERATURE AND STUDIES}{7}{}%
 \contentsline {subsection}{\numberline {2.1}Alzheimer's Disease}{7}{}%
 \contentsline {subsection}{\numberline {2.2}Discriminant Analysis in Medical Diagnosis}{9}{}%
