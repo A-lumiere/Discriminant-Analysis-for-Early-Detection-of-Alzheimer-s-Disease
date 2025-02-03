@@ -285,6 +285,18 @@ INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/symbols/
 INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
 INPUT ./main.toc
 INPUT ./main.toc
 INPUT main.toc
@@ -353,11 +365,35 @@ INPUT ./PUPLogo.png
 INPUT ./PUPLogo.png
 INPUT ./PUPLogo.png
 INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
 INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
-INPUT ./PUPLogo.png
-INPUT ./PUPLogo.png
-INPUT ./PUPLogo.png
-INPUT ./PUPLogo.png
 INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
@@ -389,15 +425,15 @@ INPUT ./QQ_Lifestyle.png
 INPUT ./QQ_Lifestyle.png
 INPUT ./QQ_Lifestyle.png
 INPUT ./QQ_Lifestyle.png
-INPUT ./QQ_Clinical Measures.png
-INPUT ./QQ_Clinical Measures.png
-INPUT ./QQ_Clinical Measures.png
-INPUT ./QQ_Clinical Measures.png
-INPUT ./QQ_Clinical Measures.png
 INPUT ./PUPLogo.png
 INPUT ./PUPLogo.png
 INPUT ./PUPLogo.png
 INPUT ./PUPLogo.png
+INPUT ./QQ_Clinical Measures.png
+INPUT ./QQ_Clinical Measures.png
+INPUT ./QQ_Clinical Measures.png
+INPUT ./QQ_Clinical Measures.png
+INPUT ./QQ_Clinical Measures.png
 INPUT ./QQ_Cog and Funcs.png
 INPUT ./QQ_Cog and Funcs.png
 INPUT ./QQ_Cog and Funcs.png
@@ -434,6 +470,10 @@ INPUT ./Cognitive and Functional Distributions.png
 INPUT ./Cognitive and Functional Distributions.png
 INPUT ./Cognitive and Functional Distributions.png
 INPUT ./Cognitive and Functional Distributions.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
 INPUT ./PartitionLDA.png
 INPUT ./PartitionLDA.png
 INPUT ./PartitionLDA.png
@@ -516,6 +556,10 @@ INPUT ./Lasso_Reduced_LDA.png
 INPUT ./Lasso_Reduced_LDA.png
 INPUT ./Lasso_Reduced_LDA.png
 INPUT ./Lasso_Reduced_LDA.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
 INPUT ./Partimat_QDA_Lasso.png
 INPUT ./Partimat_QDA_Lasso.png
 INPUT ./Partimat_QDA_Lasso.png
@@ -530,6 +574,30 @@ INPUT ./Accuracy_Line_plots.png
 INPUT ./Accuracy_Line_plots.png
 INPUT ./Accuracy_Line_plots.png
 INPUT ./Accuracy_Line_plots.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT /usr/local/texlive/2024basic/texmf-dist/tex/latex/base/omlcmr.fd
+INPUT /usr/local/texlive/2024basic/texmf-dist/tex/latex/base/omlcmr.fd
+INPUT /usr/local/texlive/2024basic/texmf-dist/tex/latex/base/omlcmr.fd
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
+INPUT ./PUPLogo.png
 INPUT ./PUPLogo.png
 INPUT ./PUPLogo.png
 INPUT ./PUPLogo.png
@@ -565,6 +633,7 @@ INPUT ./PUPLogo.png
 INPUT main.aux
 INPUT main.run.xml
 OUTPUT main.run.xml
+INPUT /Users/almerstaines/Library/texlive/2024basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk
 INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb

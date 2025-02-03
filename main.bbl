@@ -19,6 +19,65 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Adebiyi2022}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5316161ffff0f25d1fb5e46b0718b83c}{%
+           family={Adebiyi},
+           familyi={A\bibinitperiod},
+           given={Marion\bibnamedelima Olubunmi},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea27b19822f7d6a074a2dcf21b747db9}{%
+           family={Arowolo},
+           familyi={A\bibinitperiod},
+           given={Micheal\bibnamedelima Olaolu},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df3654a70b68e5b2a336486cb056c094}{%
+           family={Mshelia},
+           familyi={M\bibinitperiod},
+           given={Moses\bibnamedelima Damilola},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b38aff37eeadf75fe445397354ae9090}{%
+           family={Olugbara},
+           familyi={O\bibinitperiod},
+           given={Oludayo\bibnamedelima O.},
+           giveni={O\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0c281bc9c0a1ff161a9027a073556091}
+      \strng{fullhash}{47ef8728f29c32a38cfc244772e4727e}
+      \strng{fullhashraw}{47ef8728f29c32a38cfc244772e4727e}
+      \strng{bibnamehash}{47ef8728f29c32a38cfc244772e4727e}
+      \strng{authorbibnamehash}{47ef8728f29c32a38cfc244772e4727e}
+      \strng{authornamehash}{0c281bc9c0a1ff161a9027a073556091}
+      \strng{authorfullhash}{47ef8728f29c32a38cfc244772e4727e}
+      \strng{authorfullhashraw}{47ef8728f29c32a38cfc244772e4727e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{22}
+      \field{title}{A Linear Discriminant Analysis and Classification Model for Breast Cancer Diagnosis}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{pages}{11455}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app122211455
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/app122211455
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/app122211455
+      \endverb
+    \endentry
     \entry{alshamlan2018_biomarker_gene_selection}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=d07da6abfe2b00329f7d10f667e1ac5e}{%
@@ -93,7 +152,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Alzheimer's and Dementia}
       \field{number}{3}
-      \field{title}{2021 Alzheimer's Disease Facts and Figures}
+      \field{title}{2021 {{Alzheimer}}'s Disease Facts and Figures}
       \field{volume}{17}
       \field{year}{2021}
       \field{pages}{327\bibrangedash 406}
@@ -110,18 +169,18 @@
     \endentry
     \entry{alzint_dementia_statistics}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=504b691c757304080cf9bfbc06e219c1}{%
-           family={{Alzheimers Disease International}},
+        {{un=0,uniquepart=base,hash=04729186425c7d751a12471920acbec3}{%
+           family={{Alzheimer's Disease International}},
            familyi={A\bibinitperiod}}}%
       }
-      \strng{namehash}{504b691c757304080cf9bfbc06e219c1}
-      \strng{fullhash}{504b691c757304080cf9bfbc06e219c1}
-      \strng{fullhashraw}{504b691c757304080cf9bfbc06e219c1}
-      \strng{bibnamehash}{504b691c757304080cf9bfbc06e219c1}
-      \strng{authorbibnamehash}{504b691c757304080cf9bfbc06e219c1}
-      \strng{authornamehash}{504b691c757304080cf9bfbc06e219c1}
-      \strng{authorfullhash}{504b691c757304080cf9bfbc06e219c1}
-      \strng{authorfullhashraw}{504b691c757304080cf9bfbc06e219c1}
+      \strng{namehash}{04729186425c7d751a12471920acbec3}
+      \strng{fullhash}{04729186425c7d751a12471920acbec3}
+      \strng{fullhashraw}{04729186425c7d751a12471920acbec3}
+      \strng{bibnamehash}{04729186425c7d751a12471920acbec3}
+      \strng{authorbibnamehash}{04729186425c7d751a12471920acbec3}
+      \strng{authornamehash}{04729186425c7d751a12471920acbec3}
+      \strng{authorfullhash}{04729186425c7d751a12471920acbec3}
+      \strng{authorfullhashraw}{04729186425c7d751a12471920acbec3}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeldatesource}{nodate}
@@ -195,6 +254,81 @@
       \verb https://www.frontiersin.org/articles/10.3389/fneur.2017.00315/full
       \endverb
     \endentry
+    \entry{Arslan2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2ff47274ab84fa63b5f5c323816c3607}{%
+           family={Arslan},
+           familyi={A\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=412b86bece0a529e0e6a7776c129081e}{%
+           family={Gunes},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52042f73c59fbc160a2d80029166c6e6}{%
+           family={Yildirim},
+           familyi={Y\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{42db1013cae350c23f334e766d230e9e}
+      \strng{fullhash}{d2be6b2b73452cbc990e55387a299ce7}
+      \strng{fullhashraw}{d2be6b2b73452cbc990e55387a299ce7}
+      \strng{bibnamehash}{d2be6b2b73452cbc990e55387a299ce7}
+      \strng{authorbibnamehash}{d2be6b2b73452cbc990e55387a299ce7}
+      \strng{authornamehash}{42db1013cae350c23f334e766d230e9e}
+      \strng{authorfullhash}{d2be6b2b73452cbc990e55387a299ce7}
+      \strng{authorfullhashraw}{d2be6b2b73452cbc990e55387a299ce7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Neuroscience Methods}
+      \field{title}{A hybrid deep learning model for early Alzheimer's disease prediction}
+      \field{volume}{372}
+      \field{year}{2022}
+      \field{pages}{109598}
+      \range{pages}{1}
+    \endentry
+    \entry{alzheimers2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4aff46c0e59d74b27c772028cefa3598}{%
+           family={Association},
+           familyi={A\bibinitperiod},
+           given={Alzheimer’s},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{fullhash}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{fullhashraw}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{bibnamehash}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{authorbibnamehash}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{authornamehash}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{authorfullhash}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{authorfullhashraw}{4aff46c0e59d74b27c772028cefa3598}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Alzheimer’s and Dementia}
+      \field{number}{3}
+      \field{title}{Alzheimer’s disease facts and figures}
+      \field{volume}{19}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 88}
+      \range{pages}{88}
+    \endentry
     \entry{balakrishnan2020_rfe_ann_ad}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=3cd53d189f23b5457630731fe1a57f8c}{%
@@ -262,6 +396,120 @@
       \endverb
       \verb{url}
       \verb https://www.researchgate.net/publication/374803499_Alzheimer_Disease_Prediction_Using_Recursive_Feature_Elimination_and_Artificial_Neural_Network
+      \endverb
+    \endentry
+    \entry{Cummings2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=dd66dad850fc08465f8ce80f242aca9b}{%
+           family={Cummings},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=d920d03f5bc6ee5a01c679ac8a792277}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2911a751e389a0809aeccc092ffbfc54}{%
+           family={Nahed},
+           familyi={N\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f8da2e591cfaacc72b9a87e154807cf}
+      \strng{fullhash}{eb8c56b9a93757f2951299720d5d3127}
+      \strng{fullhashraw}{eb8c56b9a93757f2951299720d5d3127}
+      \strng{bibnamehash}{eb8c56b9a93757f2951299720d5d3127}
+      \strng{authorbibnamehash}{eb8c56b9a93757f2951299720d5d3127}
+      \strng{authornamehash}{7f8da2e591cfaacc72b9a87e154807cf}
+      \strng{authorfullhash}{eb8c56b9a93757f2951299720d5d3127}
+      \strng{authorfullhashraw}{eb8c56b9a93757f2951299720d5d3127}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Alzheimer’s and Dementia: Translational Research and Clinical Interventions}
+      \field{title}{Alzheimer’s disease drug development pipeline: 2019}
+      \field{volume}{5}
+      \field{year}{2019}
+      \field{pages}{272\bibrangedash 293}
+      \range{pages}{22}
+    \endentry
+    \entry{cummings2017}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=f1bb7a8e7f3cf9557270b5dc78fcc275}{%
+           family={Cummings},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=9b117ec19b48908c7c5b7f27e7e7e699}{%
+           family={Aisen},
+           familyi={A\bibinitperiod},
+           given={P.\bibnamedelimi S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd707ad76133ba839925270da9da8d23}{%
+           family={DuBois},
+           familyi={D\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7e23ef8b4e31bd2c00c79ed350e58ca}{%
+           family={Scheltens},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=235170282cf7acc531cf6bedd303a3fc}{%
+           family={Hampel},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{69d6f338ec4f37f2d5ca6588ccc1bc01}
+      \strng{fullhash}{6dc3fd67c609d9bb35fd70fdccc31d1e}
+      \strng{fullhashraw}{6dc3fd67c609d9bb35fd70fdccc31d1e}
+      \strng{bibnamehash}{6dc3fd67c609d9bb35fd70fdccc31d1e}
+      \strng{authorbibnamehash}{6dc3fd67c609d9bb35fd70fdccc31d1e}
+      \strng{authornamehash}{69d6f338ec4f37f2d5ca6588ccc1bc01}
+      \strng{authorfullhash}{6dc3fd67c609d9bb35fd70fdccc31d1e}
+      \strng{authorfullhashraw}{6dc3fd67c609d9bb35fd70fdccc31d1e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Alzheimer’s and Dementia}
+      \field{number}{2}
+      \field{title}{Clinical diagnosis of Alzheimer’s disease: Recommendations of the International Working Group}
+      \field{volume}{13}
+      \field{year}{2017}
+      \field{pages}{272\bibrangedash 284}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.jalz.2016.12.010
+      \endverb
+      \verb{urlraw}
+      \verb https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2016.12.010
+      \endverb
+      \verb{url}
+      \verb https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2016.12.010
       \endverb
     \endentry
     \entry{Custodio2022}{article}{}{}
@@ -353,6 +601,112 @@
       \verb https://www.researchgate.net/publication/361057550_A_Functional_Assessment_Tool_to_Distinguish_Controls_From_Alzheimer's_Disease_in_Lima_Peru
       \endverb
     \endentry
+    \entry{Dhamnetiya2022}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=60cdab4274554c91e89247f935e310e0}{%
+           family={Dhamnetiya},
+           familyi={D\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df0fb834ceec9c392ce79b13a37ad7f6}{%
+           family={Goel},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04fe962a26c0652ac32c8d54058301a0}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={R.\bibnamedelimi P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=492770659498caae4f106f86c0e7c441}{%
+           family={Shalini},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e49427ca7de5c2ef081fa3872a2ba5d5}{%
+           family={Bhattacharyya},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0aa2a9df9ba5b417179c981358e94b14}
+      \strng{fullhash}{5f0a91647f15fed45eaed9f90f760aaa}
+      \strng{fullhashraw}{5f0a91647f15fed45eaed9f90f760aaa}
+      \strng{bibnamehash}{5f0a91647f15fed45eaed9f90f760aaa}
+      \strng{authorbibnamehash}{5f0a91647f15fed45eaed9f90f760aaa}
+      \strng{authornamehash}{0aa2a9df9ba5b417179c981358e94b14}
+      \strng{authorfullhash}{5f0a91647f15fed45eaed9f90f760aaa}
+      \strng{authorfullhashraw}{5f0a91647f15fed45eaed9f90f760aaa}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Laboratory Physicians}
+      \field{number}{4}
+      \field{title}{How to Perform Discriminant Analysis in Medical Research? Explained with Illustrations}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{pages}{511\bibrangedash 520}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1055/s-0042-1747675
+      \endverb
+    \endentry
+    \entry{dibattista2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ad6d6224bb3cccefd86979ca379ac263}{%
+           family={Di\bibnamedelima Battista},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a353223f4180fc4e26b4ddfb14d725fc}{%
+           family={Heinsinger},
+           familyi={H\bibinitperiod},
+           given={N.\bibnamedelimi M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f6ce17f6bfc55eb2bb19ac1ac65b767}{%
+           family={Rebeck},
+           familyi={R\bibinitperiod},
+           given={G.\bibnamedelimi W.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{215279a1505b1516e16d2a217279abce}
+      \strng{fullhash}{c19686bbe0f15faf285b4a8d3d165d28}
+      \strng{fullhashraw}{c19686bbe0f15faf285b4a8d3d165d28}
+      \strng{bibnamehash}{c19686bbe0f15faf285b4a8d3d165d28}
+      \strng{authorbibnamehash}{c19686bbe0f15faf285b4a8d3d165d28}
+      \strng{authornamehash}{215279a1505b1516e16d2a217279abce}
+      \strng{authorfullhash}{c19686bbe0f15faf285b4a8d3d165d28}
+      \strng{authorfullhashraw}{c19686bbe0f15faf285b4a8d3d165d28}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current Alzheimer Research}
+      \field{number}{11}
+      \field{title}{Alzheimer's Disease Genetic Risk Factor APOE-E4 Also Affects Normal Brain Function}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{pages}{1200\bibrangedash 1207}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.2174/1567205013666160401115127
+      \endverb
+    \endentry
     \entry{Dominguez2021}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=116f6fd086861c5b87a062f90564f6b3}{%
@@ -407,6 +761,83 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.3390/nu13114080
+      \endverb
+    \endentry
+    \entry{Santos2022}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=d28fd8ce3f9db57e22150c12cbc86553}{%
+           family={Dos\bibnamedelima Santos},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={R.\bibnamedelimi F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dff36492175a3104f3ec42e9e88adb1f}{%
+           family={Paraskevaidi},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6705e78901b30e8904b39fdcd0d1481}{%
+           family={Mann},
+           familyi={M\bibinitperiod},
+           given={D.\bibnamedelimi M.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b58bb67cdd8272234bf9f3cc1a4984c3}{%
+           family={Allsop},
+           familyi={A\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04aa71ae98046884f67ad496c8f8eb6a}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi C.\bibnamedelimi D.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cba2e29aa2fbd2c8c28691d9c0eae486}{%
+           family={Morais},
+           familyi={M\bibinitperiod},
+           given={C.\bibnamedelimi L.\bibnamedelimi M.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6dda6d423d3e27f21d8e5741c0dd4fa9}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={K.\bibnamedelimi M.\bibnamedelimi G.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9cd028e75808a239f1f18a1d958690ae}
+      \strng{fullhash}{a7eef1202a7a4a57e032d7dce709c3a6}
+      \strng{fullhashraw}{a7eef1202a7a4a57e032d7dce709c3a6}
+      \strng{bibnamehash}{a7eef1202a7a4a57e032d7dce709c3a6}
+      \strng{authorbibnamehash}{a7eef1202a7a4a57e032d7dce709c3a6}
+      \strng{authornamehash}{9cd028e75808a239f1f18a1d958690ae}
+      \strng{authorfullhash}{a7eef1202a7a4a57e032d7dce709c3a6}
+      \strng{authorfullhashraw}{a7eef1202a7a4a57e032d7dce709c3a6}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{number}{1}
+      \field{title}{Alzheimer's disease diagnosis by blood plasma molecular fluorescence spectroscopy (EEM)}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{pages}{16199}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-022-20611-y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41598-022-20611-y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41598-022-20611-y
       \endverb
     \endentry
     \entry{Dubois2016}{article}{}{}
@@ -639,7 +1070,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Alzheimer's and Dementia}
       \field{number}{3}
-      \field{title}{Preclinical Alzheimer's Disease: Definition, Natural History, and Diagnostic Criteria}
+      \field{title}{Preclinical {{Alzheimer}}'s Disease: Definition, Natural History, and Diagnostic Criteria}
       \field{volume}{12}
       \field{year}{2016}
       \field{pages}{292\bibrangedash 323}
@@ -700,6 +1131,37 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1016/j.jalz.2016.01.015
+      \endverb
+    \endentry
+    \entry{GeeksforGeeksLDA}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f1e069787ece74531d112559945c6871}{%
+           family={GeeksforGeeks},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhashraw}{f1e069787ece74531d112559945c6871}
+      \strng{bibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorbibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authornamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhashraw}{f1e069787ece74531d112559945c6871}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-02-01}
+      \field{title}{ML | Linear Discriminant Analysis}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/ml-linear-discriminant-analysis/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/ml-linear-discriminant-analysis/
       \endverb
     \endentry
     \entry{gu2020_feature_selection_ad}{article}{}{}
@@ -769,6 +1231,55 @@
       \verb{url}
       \verb https://www.frontiersin.org/articles/10.3389/fnins.2020.00008/full
       \endverb
+    \endentry
+    \entry{Hansson2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=372ee61ea31ef3ee60fe56063999952e}{%
+           family={Hansson},
+           familyi={H\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b742138a1aa98c26a7df3a795ecbd01}{%
+           family={Seibyl},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a57cfb5d1be5baddfbe697c41be478cb}{%
+           family={Stomrud},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{8882d365dee0a98c0843f6217ece9147}
+      \strng{fullhash}{59b0a7558afff3a7d4df5f4ba94d331e}
+      \strng{fullhashraw}{59b0a7558afff3a7d4df5f4ba94d331e}
+      \strng{bibnamehash}{59b0a7558afff3a7d4df5f4ba94d331e}
+      \strng{authorbibnamehash}{59b0a7558afff3a7d4df5f4ba94d331e}
+      \strng{authornamehash}{8882d365dee0a98c0843f6217ece9147}
+      \strng{authorfullhash}{59b0a7558afff3a7d4df5f4ba94d331e}
+      \strng{authorfullhashraw}{59b0a7558afff3a7d4df5f4ba94d331e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Alzheimer’s and Dementia}
+      \field{number}{3}
+      \field{title}{CSF biomarkers of Alzheimer's disease concord with amyloid-B PET and predict clinical progression: A study of fully automated immunoassays in BioFINDER and ADNI cohorts}
+      \field{volume}{15}
+      \field{year}{2019}
+      \field{pages}{414\bibrangedash 423}
+      \range{pages}{10}
     \endentry
     \entry{elements_statistical_learning}{book}{}{}
       \name{author}{3}{}{%
@@ -960,7 +1471,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Alzheimer's and Dementia}
       \field{number}{4}
-      \field{title}{NIA-AA Research Framework: Toward a biological definition of {Alzheimer}'s disease}
+      \field{title}{{NIA-AA} Research Framework: Toward a biological definition of {Alzheimer}'s disease}
       \field{volume}{14}
       \field{year}{2018}
       \field{pages}{535\bibrangedash 562}
@@ -1052,35 +1563,75 @@
       \field{title}{Genetic Risk Factors and Biomarkers in Alzheimer’s Disease Detection}
       \field{year}{2019}
     \endentry
-    \entry{Kivipelto2018}{article}{}{}
+    \entry{Jia2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=64ba599feaf2495192fcb4c428e737a4}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{fullhash}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{fullhashraw}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{bibnamehash}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{authorbibnamehash}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{authornamehash}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{authorfullhash}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{authorfullhashraw}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Psychiatry}
+      \field{number}{1}
+      \field{title}{A comparison of the Mini-Mental State Examination (MMSE) with the Montreal Cognitive Assessment (MoCA) for mild cognitive impairment screening in Chinese middle-aged and older population: a cross-sectional study}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{pages}{485}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12888-021-03495-6
+      \endverb
+    \endentry
+    \entry{Kresnawati2023}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=8db37fd081da3350c22c46492951a2e3}{%
-           family={Kivipelto},
+        {{un=0,uniquepart=base,hash=f54101495aae1d14d30b68bb78b842ae}{%
+           family={Kresnawati},
            familyi={K\bibinitperiod},
-           given={Miia},
-           giveni={M\bibinitperiod},
+           given={Endang\bibnamedelima Sri},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=4e13dff35b7757579fb519b6890a9904}{%
-           family={Mangialasche},
-           familyi={M\bibinitperiod},
-           given={Francesca},
-           giveni={F\bibinitperiod},
+        {{un=0,uniquepart=base,hash=8f4fb91a787b7384651fbd229b9616b3}{%
+           family={Suprihatin},
+           familyi={S\bibinitperiod},
+           given={Bambang},
+           giveni={B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=90c7ef27cf4e84cf9e0406af6ff7c903}{%
-           family={Ngandu},
-           familyi={N\bibinitperiod},
-           given={Tiia},
-           giveni={T\bibinitperiod},
+        {{un=0,uniquepart=base,hash=eac2e5bc0e585e13a0fdb870523c5c53}{%
+           family={Resti},
+           familyi={R\bibinitperiod},
+           given={Yulia},
+           giveni={Y\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{41c919ef3d3506ce01028687255a0c92}
-      \strng{fullhash}{c05dc61b7a9241c570ca537925921ad1}
-      \strng{fullhashraw}{c05dc61b7a9241c570ca537925921ad1}
-      \strng{bibnamehash}{c05dc61b7a9241c570ca537925921ad1}
-      \strng{authorbibnamehash}{c05dc61b7a9241c570ca537925921ad1}
-      \strng{authornamehash}{41c919ef3d3506ce01028687255a0c92}
-      \strng{authorfullhash}{c05dc61b7a9241c570ca537925921ad1}
-      \strng{authorfullhashraw}{c05dc61b7a9241c570ca537925921ad1}
+      \strng{namehash}{0d985a11e8cd6096c5bf8190c5e7de3d}
+      \strng{fullhash}{76937237cb34f81ed3a5a670a6d9a8da}
+      \strng{fullhashraw}{76937237cb34f81ed3a5a670a6d9a8da}
+      \strng{bibnamehash}{76937237cb34f81ed3a5a670a6d9a8da}
+      \strng{authorbibnamehash}{76937237cb34f81ed3a5a670a6d9a8da}
+      \strng{authornamehash}{0d985a11e8cd6096c5bf8190c5e7de3d}
+      \strng{authorfullhash}{76937237cb34f81ed3a5a670a6d9a8da}
+      \strng{authorfullhashraw}{76937237cb34f81ed3a5a670a6d9a8da}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -1088,21 +1639,58 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature Reviews Neurology}
-      \field{number}{11}
-      \field{title}{Lifestyle interventions to prevent cognitive impairment, dementia and Alzheimer disease}
-      \field{volume}{14}
-      \field{year}{2018}
-      \field{pages}{653\bibrangedash 666}
-      \range{pages}{14}
+      \field{journaltitle}{AIP Conference Proceedings}
+      \field{number}{1}
+      \field{title}{Diabetes mellitus diagnosis using the prediction model of discriminant analysis}
+      \field{volume}{2824}
+      \field{year}{2023}
+      \field{pages}{060006}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.1038/s41582-018-0070-3
+      \verb 10.1063/5.0159051
       \endverb
       \verb{urlraw}
-      \verb https://www.nature.com/articles/s41582-018-0070-3
+      \verb https://doi.org/10.1063/5.0159051
       \endverb
       \verb{url}
-      \verb https://www.nature.com/articles/s41582-018-0070-3
+      \verb https://doi.org/10.1063/5.0159051
+      \endverb
+    \endentry
+    \entry{lanoiselee2017}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a679e2e8ca7527d2c90da674d0c7de78}{%
+           family={Lanoiselée},
+           familyi={L\bibinitperiod},
+           given={H.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{fullhash}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{fullhashraw}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{bibnamehash}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{authorbibnamehash}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{authornamehash}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{authorfullhash}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{authorfullhashraw}{735a678ccf92773577cbbf67f5f649d8}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS Medicine}
+      \field{number}{3}
+      \field{title}{APP, PSEN1, and PSEN2 mutations in early-onset Alzheimer disease: A genetic screening study of familial and sporadic cases}
+      \field{volume}{14}
+      \field{year}{2017}
+      \field{pages}{e1002270}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pmed.1002270
       \endverb
     \endentry
     \entry{le2020_lda_highdimensional}{article}{}{}
@@ -1308,6 +1896,234 @@
       \verb{url}
       \verb https://www.eurekaselect.com/article/108616
       \endverb
+    \endentry
+    \entry{Livingston2020}{article}{}{}
+      \name{author}{24}{}{%
+        {{un=0,uniquepart=base,hash=29a50e5fadafe0b9726e3c5b3c97ed9a}{%
+           family={Livingston},
+           familyi={L\bibinitperiod},
+           given={Gill},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab32af295f378b3fde2d960053eff765}{%
+           family={Huntley},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=274747e9e4751f4d6500d6bd50941faa}{%
+           family={Sommerlad},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57528a40bb6d139e0887a57fa6880fb6}{%
+           family={Ames},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7410b67be10f7358ab7e7bae2382e07}{%
+           family={Ballard},
+           familyi={B\bibinitperiod},
+           given={Clive},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e9813038ce84a5983e98ea40c9eeb49}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Sube},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21d934e70fb0efa70d12f8316c6eff7e}{%
+           family={Burns},
+           familyi={B\bibinitperiod},
+           given={Alistair},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3d0388d6f344015b100b01d590ec379}{%
+           family={Cohen-Mansfield},
+           familyi={C\bibinithyphendelim M\bibinitperiod},
+           given={Jiska},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e027c5c2e4c3cef45897b8625bc929a}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc19f0a09ad5f352cf4926cefb1abb3e}{%
+           family={Costafreda},
+           familyi={C\bibinitperiod},
+           given={Sergi\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc6123df3660a72476e4b32b66bd87a7}{%
+           family={Dias},
+           familyi={D\bibinitperiod},
+           given={Abhijit},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce4933221502cfeaeb98b610b7ff030c}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1160ff70a9b71fec3ab78c1f510362a0}{%
+           family={Gitlin},
+           familyi={G\bibinitperiod},
+           given={Laura\bibnamedelima N.},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdb49744ecc76bfea6c173dbf48cba06}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10006a43f6bdd38f27ed7a1407bcb267}{%
+           family={Kales},
+           familyi={K\bibinitperiod},
+           given={Helen\bibnamedelima C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0ff29e8c360b0dbe8caf2b3116fd52a}{%
+           family={Larson},
+           familyi={L\bibinitperiod},
+           given={Eric\bibnamedelima B.},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c71dced43ef5deeeab9886f4d95354a}{%
+           family={Ritchie},
+           familyi={R\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30dfba4d8aeb607969fa73907430543c}{%
+           family={Rockwood},
+           familyi={R\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b327ff9dcf92ee30314230c80b9ab835}{%
+           family={Sampson},
+           familyi={S\bibinitperiod},
+           given={Elizabeth\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf7370b250f1bca04ebef47bd02cefb0}{%
+           family={Samus},
+           familyi={S\bibinitperiod},
+           given={Quincy},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a5e1c1292ed777cdc9849d522a71e1c}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Lon\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ef96c37715752ec63782ce1303f52dd}{%
+           family={Selbæk},
+           familyi={S\bibinitperiod},
+           given={Geir},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc07f26af2520af06bc3c638838e1042}{%
+           family={Teri},
+           familyi={T\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=637705d262267ee4bfc7ccf8ffa87efe}{%
+           family={Mukadam},
+           familyi={M\bibinitperiod},
+           given={Naaheed},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c7961030159a07d2e07601dcbf56f1a1}
+      \strng{fullhash}{2ae5caad7dc2a90eceb84cca560dbd0b}
+      \strng{fullhashraw}{2ae5caad7dc2a90eceb84cca560dbd0b}
+      \strng{bibnamehash}{33c6eb917e392ab1ea49657f576fb021}
+      \strng{authorbibnamehash}{33c6eb917e392ab1ea49657f576fb021}
+      \strng{authornamehash}{c7961030159a07d2e07601dcbf56f1a1}
+      \strng{authorfullhash}{2ae5caad7dc2a90eceb84cca560dbd0b}
+      \strng{authorfullhashraw}{2ae5caad7dc2a90eceb84cca560dbd0b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Lancet}
+      \field{number}{10248}
+      \field{title}{Dementia prevention, intervention, and care: 2020 report of the Lancet Commission}
+      \field{volume}{396}
+      \field{year}{2020}
+      \field{pages}{413\bibrangedash 446}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(20)30367-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.thelancet.com/article/S0140-6736(20)30367-6/fulltext
+      \endverb
+      \verb{url}
+      \verb https://www.thelancet.com/article/S0140-6736(20)30367-6/fulltext
+      \endverb
+    \endentry
+    \entry{Lourida2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=07df0d43690ced724df82f882ae1b2be}{%
+           family={Lourida},
+           familyi={L\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae05e8edd53d14e671470fc9311fe5dd}{%
+           family={Hannon},
+           familyi={H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=732d0e17269b60ceb60a07f3ca0e3ec0}{%
+           family={Littlejohns},
+           familyi={L\bibinitperiod},
+           given={T.\bibnamedelimi J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8213c458e03c9597fc46917d428adf2}
+      \strng{fullhash}{ce2ea8946032e98b5325ca43d64145b6}
+      \strng{fullhashraw}{ce2ea8946032e98b5325ca43d64145b6}
+      \strng{bibnamehash}{ce2ea8946032e98b5325ca43d64145b6}
+      \strng{authorbibnamehash}{ce2ea8946032e98b5325ca43d64145b6}
+      \strng{authornamehash}{b8213c458e03c9597fc46917d428adf2}
+      \strng{authorfullhash}{ce2ea8946032e98b5325ca43d64145b6}
+      \strng{authorfullhashraw}{ce2ea8946032e98b5325ca43d64145b6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JAMA}
+      \field{number}{5}
+      \field{title}{Association of lifestyle and genetic risk with incidence of dementia}
+      \field{volume}{322}
+      \field{year}{2019}
+      \field{pages}{430\bibrangedash 437}
+      \range{pages}{8}
     \endentry
     \entry{maroco2011_data_mining_dementia}{article}{}{}
       \name{author}{6}{}{%
@@ -1605,6 +2421,151 @@
       \verb https://pubmed.ncbi.nlm.nih.gov/21158318/
       \endverb
     \endentry
+    \entry{ScikitLearnLDAQDA}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ae928b07781d0af9cd222cc0af04ec88}{%
+           family={Scikit-learn},
+           familyi={S\bibinithyphendelim l\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{fullhash}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{fullhashraw}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{bibnamehash}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{authorbibnamehash}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{authornamehash}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{authorfullhash}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{authorfullhashraw}{ae928b07781d0af9cd222cc0af04ec88}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-02-02}
+      \field{title}{1.2. Linear and Quadratic Discriminant Analysis}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://scikit-learn.org/stable/modules/lda_qda.html
+      \endverb
+      \verb{url}
+      \verb https://scikit-learn.org/stable/modules/lda_qda.html
+      \endverb
+    \endentry
+    \entry{Shariatnia2022}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5e1073a3f077faf6b0f1d7dc8b7ac2ce}{%
+           family={Shariatnia},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=707df94a94b7c001d093689fc687efe9}{%
+           family={Ziaratban},
+           familyi={Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11cb19f32b551e5a555a6b4022dd543b}{%
+           family={Rajabi},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{15d0943c7407d731f971c7d1f2899acb}
+      \strng{fullhash}{cdac1c6a119f4b170b642840b8e2268a}
+      \strng{fullhashraw}{cdac1c6a119f4b170b642840b8e2268a}
+      \strng{bibnamehash}{cdac1c6a119f4b170b642840b8e2268a}
+      \strng{authorbibnamehash}{cdac1c6a119f4b170b642840b8e2268a}
+      \strng{authornamehash}{15d0943c7407d731f971c7d1f2899acb}
+      \strng{authorfullhash}{cdac1c6a119f4b170b642840b8e2268a}
+      \strng{authorfullhashraw}{cdac1c6a119f4b170b642840b8e2268a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Medical Informatics and Decision Making}
+      \field{title}{Modeling the diagnosis of coronary artery disease by discriminant analysis and logistic regression: a cross-sectional study}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{pages}{85}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12911-022-01823-8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s12911-022-01823-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s12911-022-01823-8
+      \endverb
+    \endentry
+    \entry{Silva2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=dd3b495b96e0a35969a51fe8a8ea24fb}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi V.\bibnamedelimi F.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33d152c6c3c5346d86784cc3b5bb9659}{%
+           family={Loures},
+           familyi={L\bibinitperiod},
+           given={C.\bibnamedelimi d.\bibnamedelimi M.\bibnamedelimi G.},
+           giveni={C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22722562fb39f7b3154f8573feb25bc0}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={L.\bibnamedelimi C.\bibnamedelimi V.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{e21b56fe78d5adad38116234f1ebc164}
+      \strng{fullhash}{6b7fad254e9ed442b6f074597adeaea4}
+      \strng{fullhashraw}{6b7fad254e9ed442b6f074597adeaea4}
+      \strng{bibnamehash}{6b7fad254e9ed442b6f074597adeaea4}
+      \strng{authorbibnamehash}{6b7fad254e9ed442b6f074597adeaea4}
+      \strng{authornamehash}{e21b56fe78d5adad38116234f1ebc164}
+      \strng{authorfullhash}{6b7fad254e9ed442b6f074597adeaea4}
+      \strng{authorfullhashraw}{6b7fad254e9ed442b6f074597adeaea4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Biomedical Science}
+      \field{title}{Alzheimer’s disease: risk factors and potentially protective measures}
+      \field{volume}{26}
+      \field{year}{2019}
+      \field{pages}{33}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12929-019-0524-y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s12929-019-0524-y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s12929-019-0524-y
+      \endverb
+    \endentry
     \entry{sperling2011}{article}{}{}
       \name{author}{21}{}{%
         {{un=0,uniquepart=base,hash=c6f2dc574dfc5425c0300dd8eeea36fa}{%
@@ -1868,6 +2829,53 @@
       \field{year}{2018}
       \field{pages}{75\bibrangedash 89}
       \range{pages}{15}
+    \endentry
+    \entry{Wu2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=802a51f0f07faf2772a82dd42d6a42f2}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Ruiyang},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85c47af798409a086c654605631bb6be}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{fullhash}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{fullhashraw}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{bibnamehash}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{authorbibnamehash}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{authornamehash}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{authorfullhash}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{authorfullhashraw}{d0d35b816899abf815187f1ca9a4cef0}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0047-259X}
+      \field{journaltitle}{Journal of Multivariate Analysis}
+      \field{title}{Quadratic discriminant analysis by projection}
+      \field{volume}{190}
+      \field{year}{2022}
+      \field{pages}{104987}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jmva.2022.104987
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.jmva.2022.104987
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.jmva.2022.104987
+      \endverb
     \endentry
     \entry{yilmaz2021_metabolic_biomarkers_ad}{article}{}{}
       \name{author}{3}{}{%
@@ -1975,6 +2983,65 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
+    \entry{Adebiyi2022}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5316161ffff0f25d1fb5e46b0718b83c}{%
+           family={Adebiyi},
+           familyi={A\bibinitperiod},
+           given={Marion\bibnamedelima Olubunmi},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea27b19822f7d6a074a2dcf21b747db9}{%
+           family={Arowolo},
+           familyi={A\bibinitperiod},
+           given={Micheal\bibnamedelima Olaolu},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df3654a70b68e5b2a336486cb056c094}{%
+           family={Mshelia},
+           familyi={M\bibinitperiod},
+           given={Moses\bibnamedelima Damilola},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b38aff37eeadf75fe445397354ae9090}{%
+           family={Olugbara},
+           familyi={O\bibinitperiod},
+           given={Oludayo\bibnamedelima O.},
+           giveni={O\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0c281bc9c0a1ff161a9027a073556091}
+      \strng{fullhash}{47ef8728f29c32a38cfc244772e4727e}
+      \strng{fullhashraw}{47ef8728f29c32a38cfc244772e4727e}
+      \strng{bibnamehash}{47ef8728f29c32a38cfc244772e4727e}
+      \strng{authorbibnamehash}{47ef8728f29c32a38cfc244772e4727e}
+      \strng{authornamehash}{0c281bc9c0a1ff161a9027a073556091}
+      \strng{authorfullhash}{47ef8728f29c32a38cfc244772e4727e}
+      \strng{authorfullhashraw}{47ef8728f29c32a38cfc244772e4727e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{22}
+      \field{title}{A Linear Discriminant Analysis and Classification Model for Breast Cancer Diagnosis}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{pages}{11455}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app122211455
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/app122211455
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/app122211455
+      \endverb
+    \endentry
     \entry{alshamlan2018_biomarker_gene_selection}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=d07da6abfe2b00329f7d10f667e1ac5e}{%
@@ -2049,7 +3116,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Alzheimer's and Dementia}
       \field{number}{3}
-      \field{title}{2021 Alzheimer's Disease Facts and Figures}
+      \field{title}{2021 {{Alzheimer}}'s Disease Facts and Figures}
       \field{volume}{17}
       \field{year}{2021}
       \field{pages}{327\bibrangedash 406}
@@ -2066,18 +3133,18 @@
     \endentry
     \entry{alzint_dementia_statistics}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=504b691c757304080cf9bfbc06e219c1}{%
-           family={{Alzheimers Disease International}},
+        {{un=0,uniquepart=base,hash=04729186425c7d751a12471920acbec3}{%
+           family={{Alzheimer's Disease International}},
            familyi={A\bibinitperiod}}}%
       }
-      \strng{namehash}{504b691c757304080cf9bfbc06e219c1}
-      \strng{fullhash}{504b691c757304080cf9bfbc06e219c1}
-      \strng{fullhashraw}{504b691c757304080cf9bfbc06e219c1}
-      \strng{bibnamehash}{504b691c757304080cf9bfbc06e219c1}
-      \strng{authorbibnamehash}{504b691c757304080cf9bfbc06e219c1}
-      \strng{authornamehash}{504b691c757304080cf9bfbc06e219c1}
-      \strng{authorfullhash}{504b691c757304080cf9bfbc06e219c1}
-      \strng{authorfullhashraw}{504b691c757304080cf9bfbc06e219c1}
+      \strng{namehash}{04729186425c7d751a12471920acbec3}
+      \strng{fullhash}{04729186425c7d751a12471920acbec3}
+      \strng{fullhashraw}{04729186425c7d751a12471920acbec3}
+      \strng{bibnamehash}{04729186425c7d751a12471920acbec3}
+      \strng{authorbibnamehash}{04729186425c7d751a12471920acbec3}
+      \strng{authornamehash}{04729186425c7d751a12471920acbec3}
+      \strng{authorfullhash}{04729186425c7d751a12471920acbec3}
+      \strng{authorfullhashraw}{04729186425c7d751a12471920acbec3}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeldatesource}{nodate}
@@ -2151,6 +3218,81 @@
       \verb https://www.frontiersin.org/articles/10.3389/fneur.2017.00315/full
       \endverb
     \endentry
+    \entry{Arslan2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2ff47274ab84fa63b5f5c323816c3607}{%
+           family={Arslan},
+           familyi={A\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=412b86bece0a529e0e6a7776c129081e}{%
+           family={Gunes},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52042f73c59fbc160a2d80029166c6e6}{%
+           family={Yildirim},
+           familyi={Y\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{42db1013cae350c23f334e766d230e9e}
+      \strng{fullhash}{d2be6b2b73452cbc990e55387a299ce7}
+      \strng{fullhashraw}{d2be6b2b73452cbc990e55387a299ce7}
+      \strng{bibnamehash}{d2be6b2b73452cbc990e55387a299ce7}
+      \strng{authorbibnamehash}{d2be6b2b73452cbc990e55387a299ce7}
+      \strng{authornamehash}{42db1013cae350c23f334e766d230e9e}
+      \strng{authorfullhash}{d2be6b2b73452cbc990e55387a299ce7}
+      \strng{authorfullhashraw}{d2be6b2b73452cbc990e55387a299ce7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Neuroscience Methods}
+      \field{title}{A hybrid deep learning model for early Alzheimer's disease prediction}
+      \field{volume}{372}
+      \field{year}{2022}
+      \field{pages}{109598}
+      \range{pages}{1}
+    \endentry
+    \entry{alzheimers2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4aff46c0e59d74b27c772028cefa3598}{%
+           family={Association},
+           familyi={A\bibinitperiod},
+           given={Alzheimer’s},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{fullhash}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{fullhashraw}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{bibnamehash}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{authorbibnamehash}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{authornamehash}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{authorfullhash}{4aff46c0e59d74b27c772028cefa3598}
+      \strng{authorfullhashraw}{4aff46c0e59d74b27c772028cefa3598}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Alzheimer’s and Dementia}
+      \field{number}{3}
+      \field{title}{Alzheimer’s disease facts and figures}
+      \field{volume}{19}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 88}
+      \range{pages}{88}
+    \endentry
     \entry{balakrishnan2020_rfe_ann_ad}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=3cd53d189f23b5457630731fe1a57f8c}{%
@@ -2218,6 +3360,120 @@
       \endverb
       \verb{url}
       \verb https://www.researchgate.net/publication/374803499_Alzheimer_Disease_Prediction_Using_Recursive_Feature_Elimination_and_Artificial_Neural_Network
+      \endverb
+    \endentry
+    \entry{Cummings2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=dd66dad850fc08465f8ce80f242aca9b}{%
+           family={Cummings},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=d920d03f5bc6ee5a01c679ac8a792277}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2911a751e389a0809aeccc092ffbfc54}{%
+           family={Nahed},
+           familyi={N\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f8da2e591cfaacc72b9a87e154807cf}
+      \strng{fullhash}{eb8c56b9a93757f2951299720d5d3127}
+      \strng{fullhashraw}{eb8c56b9a93757f2951299720d5d3127}
+      \strng{bibnamehash}{eb8c56b9a93757f2951299720d5d3127}
+      \strng{authorbibnamehash}{eb8c56b9a93757f2951299720d5d3127}
+      \strng{authornamehash}{7f8da2e591cfaacc72b9a87e154807cf}
+      \strng{authorfullhash}{eb8c56b9a93757f2951299720d5d3127}
+      \strng{authorfullhashraw}{eb8c56b9a93757f2951299720d5d3127}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Alzheimer’s and Dementia: Translational Research and Clinical Interventions}
+      \field{title}{Alzheimer’s disease drug development pipeline: 2019}
+      \field{volume}{5}
+      \field{year}{2019}
+      \field{pages}{272\bibrangedash 293}
+      \range{pages}{22}
+    \endentry
+    \entry{cummings2017}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=f1bb7a8e7f3cf9557270b5dc78fcc275}{%
+           family={Cummings},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=9b117ec19b48908c7c5b7f27e7e7e699}{%
+           family={Aisen},
+           familyi={A\bibinitperiod},
+           given={P.\bibnamedelimi S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd707ad76133ba839925270da9da8d23}{%
+           family={DuBois},
+           familyi={D\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7e23ef8b4e31bd2c00c79ed350e58ca}{%
+           family={Scheltens},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=235170282cf7acc531cf6bedd303a3fc}{%
+           family={Hampel},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{69d6f338ec4f37f2d5ca6588ccc1bc01}
+      \strng{fullhash}{6dc3fd67c609d9bb35fd70fdccc31d1e}
+      \strng{fullhashraw}{6dc3fd67c609d9bb35fd70fdccc31d1e}
+      \strng{bibnamehash}{6dc3fd67c609d9bb35fd70fdccc31d1e}
+      \strng{authorbibnamehash}{6dc3fd67c609d9bb35fd70fdccc31d1e}
+      \strng{authornamehash}{69d6f338ec4f37f2d5ca6588ccc1bc01}
+      \strng{authorfullhash}{6dc3fd67c609d9bb35fd70fdccc31d1e}
+      \strng{authorfullhashraw}{6dc3fd67c609d9bb35fd70fdccc31d1e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Alzheimer’s and Dementia}
+      \field{number}{2}
+      \field{title}{Clinical diagnosis of Alzheimer’s disease: Recommendations of the International Working Group}
+      \field{volume}{13}
+      \field{year}{2017}
+      \field{pages}{272\bibrangedash 284}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.jalz.2016.12.010
+      \endverb
+      \verb{urlraw}
+      \verb https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2016.12.010
+      \endverb
+      \verb{url}
+      \verb https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2016.12.010
       \endverb
     \endentry
     \entry{Custodio2022}{article}{}{}
@@ -2309,6 +3565,112 @@
       \verb https://www.researchgate.net/publication/361057550_A_Functional_Assessment_Tool_to_Distinguish_Controls_From_Alzheimer's_Disease_in_Lima_Peru
       \endverb
     \endentry
+    \entry{Dhamnetiya2022}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=60cdab4274554c91e89247f935e310e0}{%
+           family={Dhamnetiya},
+           familyi={D\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df0fb834ceec9c392ce79b13a37ad7f6}{%
+           family={Goel},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04fe962a26c0652ac32c8d54058301a0}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={R.\bibnamedelimi P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=492770659498caae4f106f86c0e7c441}{%
+           family={Shalini},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e49427ca7de5c2ef081fa3872a2ba5d5}{%
+           family={Bhattacharyya},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0aa2a9df9ba5b417179c981358e94b14}
+      \strng{fullhash}{5f0a91647f15fed45eaed9f90f760aaa}
+      \strng{fullhashraw}{5f0a91647f15fed45eaed9f90f760aaa}
+      \strng{bibnamehash}{5f0a91647f15fed45eaed9f90f760aaa}
+      \strng{authorbibnamehash}{5f0a91647f15fed45eaed9f90f760aaa}
+      \strng{authornamehash}{0aa2a9df9ba5b417179c981358e94b14}
+      \strng{authorfullhash}{5f0a91647f15fed45eaed9f90f760aaa}
+      \strng{authorfullhashraw}{5f0a91647f15fed45eaed9f90f760aaa}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Laboratory Physicians}
+      \field{number}{4}
+      \field{title}{How to Perform Discriminant Analysis in Medical Research? Explained with Illustrations}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{pages}{511\bibrangedash 520}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1055/s-0042-1747675
+      \endverb
+    \endentry
+    \entry{dibattista2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ad6d6224bb3cccefd86979ca379ac263}{%
+           family={Di\bibnamedelima Battista},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a353223f4180fc4e26b4ddfb14d725fc}{%
+           family={Heinsinger},
+           familyi={H\bibinitperiod},
+           given={N.\bibnamedelimi M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f6ce17f6bfc55eb2bb19ac1ac65b767}{%
+           family={Rebeck},
+           familyi={R\bibinitperiod},
+           given={G.\bibnamedelimi W.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{215279a1505b1516e16d2a217279abce}
+      \strng{fullhash}{c19686bbe0f15faf285b4a8d3d165d28}
+      \strng{fullhashraw}{c19686bbe0f15faf285b4a8d3d165d28}
+      \strng{bibnamehash}{c19686bbe0f15faf285b4a8d3d165d28}
+      \strng{authorbibnamehash}{c19686bbe0f15faf285b4a8d3d165d28}
+      \strng{authornamehash}{215279a1505b1516e16d2a217279abce}
+      \strng{authorfullhash}{c19686bbe0f15faf285b4a8d3d165d28}
+      \strng{authorfullhashraw}{c19686bbe0f15faf285b4a8d3d165d28}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current Alzheimer Research}
+      \field{number}{11}
+      \field{title}{Alzheimer's Disease Genetic Risk Factor APOE-E4 Also Affects Normal Brain Function}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{pages}{1200\bibrangedash 1207}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.2174/1567205013666160401115127
+      \endverb
+    \endentry
     \entry{Dominguez2021}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=116f6fd086861c5b87a062f90564f6b3}{%
@@ -2363,6 +3725,83 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.3390/nu13114080
+      \endverb
+    \endentry
+    \entry{Santos2022}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=d28fd8ce3f9db57e22150c12cbc86553}{%
+           family={Dos\bibnamedelima Santos},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={R.\bibnamedelimi F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dff36492175a3104f3ec42e9e88adb1f}{%
+           family={Paraskevaidi},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6705e78901b30e8904b39fdcd0d1481}{%
+           family={Mann},
+           familyi={M\bibinitperiod},
+           given={D.\bibnamedelimi M.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b58bb67cdd8272234bf9f3cc1a4984c3}{%
+           family={Allsop},
+           familyi={A\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04aa71ae98046884f67ad496c8f8eb6a}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi C.\bibnamedelimi D.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cba2e29aa2fbd2c8c28691d9c0eae486}{%
+           family={Morais},
+           familyi={M\bibinitperiod},
+           given={C.\bibnamedelimi L.\bibnamedelimi M.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6dda6d423d3e27f21d8e5741c0dd4fa9}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={K.\bibnamedelimi M.\bibnamedelimi G.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9cd028e75808a239f1f18a1d958690ae}
+      \strng{fullhash}{a7eef1202a7a4a57e032d7dce709c3a6}
+      \strng{fullhashraw}{a7eef1202a7a4a57e032d7dce709c3a6}
+      \strng{bibnamehash}{a7eef1202a7a4a57e032d7dce709c3a6}
+      \strng{authorbibnamehash}{a7eef1202a7a4a57e032d7dce709c3a6}
+      \strng{authornamehash}{9cd028e75808a239f1f18a1d958690ae}
+      \strng{authorfullhash}{a7eef1202a7a4a57e032d7dce709c3a6}
+      \strng{authorfullhashraw}{a7eef1202a7a4a57e032d7dce709c3a6}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{number}{1}
+      \field{title}{Alzheimer's disease diagnosis by blood plasma molecular fluorescence spectroscopy (EEM)}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{pages}{16199}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-022-20611-y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41598-022-20611-y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41598-022-20611-y
       \endverb
     \endentry
     \entry{Dubois2016}{article}{}{}
@@ -2595,7 +4034,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Alzheimer's and Dementia}
       \field{number}{3}
-      \field{title}{Preclinical Alzheimer's Disease: Definition, Natural History, and Diagnostic Criteria}
+      \field{title}{Preclinical {{Alzheimer}}'s Disease: Definition, Natural History, and Diagnostic Criteria}
       \field{volume}{12}
       \field{year}{2016}
       \field{pages}{292\bibrangedash 323}
@@ -2656,6 +4095,37 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1016/j.jalz.2016.01.015
+      \endverb
+    \endentry
+    \entry{GeeksforGeeksLDA}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f1e069787ece74531d112559945c6871}{%
+           family={GeeksforGeeks},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhashraw}{f1e069787ece74531d112559945c6871}
+      \strng{bibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorbibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authornamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhashraw}{f1e069787ece74531d112559945c6871}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-02-01}
+      \field{title}{ML | Linear Discriminant Analysis}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/ml-linear-discriminant-analysis/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/ml-linear-discriminant-analysis/
       \endverb
     \endentry
     \entry{gu2020_feature_selection_ad}{article}{}{}
@@ -2725,6 +4195,55 @@
       \verb{url}
       \verb https://www.frontiersin.org/articles/10.3389/fnins.2020.00008/full
       \endverb
+    \endentry
+    \entry{Hansson2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=372ee61ea31ef3ee60fe56063999952e}{%
+           family={Hansson},
+           familyi={H\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b742138a1aa98c26a7df3a795ecbd01}{%
+           family={Seibyl},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a57cfb5d1be5baddfbe697c41be478cb}{%
+           family={Stomrud},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{8882d365dee0a98c0843f6217ece9147}
+      \strng{fullhash}{59b0a7558afff3a7d4df5f4ba94d331e}
+      \strng{fullhashraw}{59b0a7558afff3a7d4df5f4ba94d331e}
+      \strng{bibnamehash}{59b0a7558afff3a7d4df5f4ba94d331e}
+      \strng{authorbibnamehash}{59b0a7558afff3a7d4df5f4ba94d331e}
+      \strng{authornamehash}{8882d365dee0a98c0843f6217ece9147}
+      \strng{authorfullhash}{59b0a7558afff3a7d4df5f4ba94d331e}
+      \strng{authorfullhashraw}{59b0a7558afff3a7d4df5f4ba94d331e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Alzheimer’s and Dementia}
+      \field{number}{3}
+      \field{title}{CSF biomarkers of Alzheimer's disease concord with amyloid-B PET and predict clinical progression: A study of fully automated immunoassays in BioFINDER and ADNI cohorts}
+      \field{volume}{15}
+      \field{year}{2019}
+      \field{pages}{414\bibrangedash 423}
+      \range{pages}{10}
     \endentry
     \entry{elements_statistical_learning}{book}{}{}
       \name{author}{3}{}{%
@@ -2916,7 +4435,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Alzheimer's and Dementia}
       \field{number}{4}
-      \field{title}{NIA-AA Research Framework: Toward a biological definition of {Alzheimer}'s disease}
+      \field{title}{{NIA-AA} Research Framework: Toward a biological definition of {Alzheimer}'s disease}
       \field{volume}{14}
       \field{year}{2018}
       \field{pages}{535\bibrangedash 562}
@@ -3008,35 +4527,75 @@
       \field{title}{Genetic Risk Factors and Biomarkers in Alzheimer’s Disease Detection}
       \field{year}{2019}
     \endentry
-    \entry{Kivipelto2018}{article}{}{}
+    \entry{Jia2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=64ba599feaf2495192fcb4c428e737a4}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{fullhash}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{fullhashraw}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{bibnamehash}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{authorbibnamehash}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{authornamehash}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{authorfullhash}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \strng{authorfullhashraw}{d55a6eb22b2195d6ed86a6eab50d7f06}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Psychiatry}
+      \field{number}{1}
+      \field{title}{A comparison of the Mini-Mental State Examination (MMSE) with the Montreal Cognitive Assessment (MoCA) for mild cognitive impairment screening in Chinese middle-aged and older population: a cross-sectional study}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{pages}{485}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12888-021-03495-6
+      \endverb
+    \endentry
+    \entry{Kresnawati2023}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=8db37fd081da3350c22c46492951a2e3}{%
-           family={Kivipelto},
+        {{un=0,uniquepart=base,hash=f54101495aae1d14d30b68bb78b842ae}{%
+           family={Kresnawati},
            familyi={K\bibinitperiod},
-           given={Miia},
-           giveni={M\bibinitperiod},
+           given={Endang\bibnamedelima Sri},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=4e13dff35b7757579fb519b6890a9904}{%
-           family={Mangialasche},
-           familyi={M\bibinitperiod},
-           given={Francesca},
-           giveni={F\bibinitperiod},
+        {{un=0,uniquepart=base,hash=8f4fb91a787b7384651fbd229b9616b3}{%
+           family={Suprihatin},
+           familyi={S\bibinitperiod},
+           given={Bambang},
+           giveni={B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=90c7ef27cf4e84cf9e0406af6ff7c903}{%
-           family={Ngandu},
-           familyi={N\bibinitperiod},
-           given={Tiia},
-           giveni={T\bibinitperiod},
+        {{un=0,uniquepart=base,hash=eac2e5bc0e585e13a0fdb870523c5c53}{%
+           family={Resti},
+           familyi={R\bibinitperiod},
+           given={Yulia},
+           giveni={Y\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{41c919ef3d3506ce01028687255a0c92}
-      \strng{fullhash}{c05dc61b7a9241c570ca537925921ad1}
-      \strng{fullhashraw}{c05dc61b7a9241c570ca537925921ad1}
-      \strng{bibnamehash}{c05dc61b7a9241c570ca537925921ad1}
-      \strng{authorbibnamehash}{c05dc61b7a9241c570ca537925921ad1}
-      \strng{authornamehash}{41c919ef3d3506ce01028687255a0c92}
-      \strng{authorfullhash}{c05dc61b7a9241c570ca537925921ad1}
-      \strng{authorfullhashraw}{c05dc61b7a9241c570ca537925921ad1}
+      \strng{namehash}{0d985a11e8cd6096c5bf8190c5e7de3d}
+      \strng{fullhash}{76937237cb34f81ed3a5a670a6d9a8da}
+      \strng{fullhashraw}{76937237cb34f81ed3a5a670a6d9a8da}
+      \strng{bibnamehash}{76937237cb34f81ed3a5a670a6d9a8da}
+      \strng{authorbibnamehash}{76937237cb34f81ed3a5a670a6d9a8da}
+      \strng{authornamehash}{0d985a11e8cd6096c5bf8190c5e7de3d}
+      \strng{authorfullhash}{76937237cb34f81ed3a5a670a6d9a8da}
+      \strng{authorfullhashraw}{76937237cb34f81ed3a5a670a6d9a8da}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -3044,21 +4603,58 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature Reviews Neurology}
-      \field{number}{11}
-      \field{title}{Lifestyle interventions to prevent cognitive impairment, dementia and Alzheimer disease}
-      \field{volume}{14}
-      \field{year}{2018}
-      \field{pages}{653\bibrangedash 666}
-      \range{pages}{14}
+      \field{journaltitle}{AIP Conference Proceedings}
+      \field{number}{1}
+      \field{title}{Diabetes mellitus diagnosis using the prediction model of discriminant analysis}
+      \field{volume}{2824}
+      \field{year}{2023}
+      \field{pages}{060006}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.1038/s41582-018-0070-3
+      \verb 10.1063/5.0159051
       \endverb
       \verb{urlraw}
-      \verb https://www.nature.com/articles/s41582-018-0070-3
+      \verb https://doi.org/10.1063/5.0159051
       \endverb
       \verb{url}
-      \verb https://www.nature.com/articles/s41582-018-0070-3
+      \verb https://doi.org/10.1063/5.0159051
+      \endverb
+    \endentry
+    \entry{lanoiselee2017}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a679e2e8ca7527d2c90da674d0c7de78}{%
+           family={Lanoiselée},
+           familyi={L\bibinitperiod},
+           given={H.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{fullhash}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{fullhashraw}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{bibnamehash}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{authorbibnamehash}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{authornamehash}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{authorfullhash}{735a678ccf92773577cbbf67f5f649d8}
+      \strng{authorfullhashraw}{735a678ccf92773577cbbf67f5f649d8}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS Medicine}
+      \field{number}{3}
+      \field{title}{APP, PSEN1, and PSEN2 mutations in early-onset Alzheimer disease: A genetic screening study of familial and sporadic cases}
+      \field{volume}{14}
+      \field{year}{2017}
+      \field{pages}{e1002270}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pmed.1002270
       \endverb
     \endentry
     \entry{le2020_lda_highdimensional}{article}{}{}
@@ -3264,6 +4860,234 @@
       \verb{url}
       \verb https://www.eurekaselect.com/article/108616
       \endverb
+    \endentry
+    \entry{Livingston2020}{article}{}{}
+      \name{author}{24}{}{%
+        {{un=0,uniquepart=base,hash=29a50e5fadafe0b9726e3c5b3c97ed9a}{%
+           family={Livingston},
+           familyi={L\bibinitperiod},
+           given={Gill},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab32af295f378b3fde2d960053eff765}{%
+           family={Huntley},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=274747e9e4751f4d6500d6bd50941faa}{%
+           family={Sommerlad},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57528a40bb6d139e0887a57fa6880fb6}{%
+           family={Ames},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7410b67be10f7358ab7e7bae2382e07}{%
+           family={Ballard},
+           familyi={B\bibinitperiod},
+           given={Clive},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e9813038ce84a5983e98ea40c9eeb49}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Sube},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21d934e70fb0efa70d12f8316c6eff7e}{%
+           family={Burns},
+           familyi={B\bibinitperiod},
+           given={Alistair},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3d0388d6f344015b100b01d590ec379}{%
+           family={Cohen-Mansfield},
+           familyi={C\bibinithyphendelim M\bibinitperiod},
+           given={Jiska},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e027c5c2e4c3cef45897b8625bc929a}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc19f0a09ad5f352cf4926cefb1abb3e}{%
+           family={Costafreda},
+           familyi={C\bibinitperiod},
+           given={Sergi\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc6123df3660a72476e4b32b66bd87a7}{%
+           family={Dias},
+           familyi={D\bibinitperiod},
+           given={Abhijit},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce4933221502cfeaeb98b610b7ff030c}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1160ff70a9b71fec3ab78c1f510362a0}{%
+           family={Gitlin},
+           familyi={G\bibinitperiod},
+           given={Laura\bibnamedelima N.},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdb49744ecc76bfea6c173dbf48cba06}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10006a43f6bdd38f27ed7a1407bcb267}{%
+           family={Kales},
+           familyi={K\bibinitperiod},
+           given={Helen\bibnamedelima C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0ff29e8c360b0dbe8caf2b3116fd52a}{%
+           family={Larson},
+           familyi={L\bibinitperiod},
+           given={Eric\bibnamedelima B.},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c71dced43ef5deeeab9886f4d95354a}{%
+           family={Ritchie},
+           familyi={R\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30dfba4d8aeb607969fa73907430543c}{%
+           family={Rockwood},
+           familyi={R\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b327ff9dcf92ee30314230c80b9ab835}{%
+           family={Sampson},
+           familyi={S\bibinitperiod},
+           given={Elizabeth\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf7370b250f1bca04ebef47bd02cefb0}{%
+           family={Samus},
+           familyi={S\bibinitperiod},
+           given={Quincy},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a5e1c1292ed777cdc9849d522a71e1c}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Lon\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ef96c37715752ec63782ce1303f52dd}{%
+           family={Selbæk},
+           familyi={S\bibinitperiod},
+           given={Geir},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc07f26af2520af06bc3c638838e1042}{%
+           family={Teri},
+           familyi={T\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=637705d262267ee4bfc7ccf8ffa87efe}{%
+           family={Mukadam},
+           familyi={M\bibinitperiod},
+           given={Naaheed},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c7961030159a07d2e07601dcbf56f1a1}
+      \strng{fullhash}{2ae5caad7dc2a90eceb84cca560dbd0b}
+      \strng{fullhashraw}{2ae5caad7dc2a90eceb84cca560dbd0b}
+      \strng{bibnamehash}{33c6eb917e392ab1ea49657f576fb021}
+      \strng{authorbibnamehash}{33c6eb917e392ab1ea49657f576fb021}
+      \strng{authornamehash}{c7961030159a07d2e07601dcbf56f1a1}
+      \strng{authorfullhash}{2ae5caad7dc2a90eceb84cca560dbd0b}
+      \strng{authorfullhashraw}{2ae5caad7dc2a90eceb84cca560dbd0b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Lancet}
+      \field{number}{10248}
+      \field{title}{Dementia prevention, intervention, and care: 2020 report of the Lancet Commission}
+      \field{volume}{396}
+      \field{year}{2020}
+      \field{pages}{413\bibrangedash 446}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(20)30367-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.thelancet.com/article/S0140-6736(20)30367-6/fulltext
+      \endverb
+      \verb{url}
+      \verb https://www.thelancet.com/article/S0140-6736(20)30367-6/fulltext
+      \endverb
+    \endentry
+    \entry{Lourida2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=07df0d43690ced724df82f882ae1b2be}{%
+           family={Lourida},
+           familyi={L\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae05e8edd53d14e671470fc9311fe5dd}{%
+           family={Hannon},
+           familyi={H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=732d0e17269b60ceb60a07f3ca0e3ec0}{%
+           family={Littlejohns},
+           familyi={L\bibinitperiod},
+           given={T.\bibnamedelimi J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8213c458e03c9597fc46917d428adf2}
+      \strng{fullhash}{ce2ea8946032e98b5325ca43d64145b6}
+      \strng{fullhashraw}{ce2ea8946032e98b5325ca43d64145b6}
+      \strng{bibnamehash}{ce2ea8946032e98b5325ca43d64145b6}
+      \strng{authorbibnamehash}{ce2ea8946032e98b5325ca43d64145b6}
+      \strng{authornamehash}{b8213c458e03c9597fc46917d428adf2}
+      \strng{authorfullhash}{ce2ea8946032e98b5325ca43d64145b6}
+      \strng{authorfullhashraw}{ce2ea8946032e98b5325ca43d64145b6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JAMA}
+      \field{number}{5}
+      \field{title}{Association of lifestyle and genetic risk with incidence of dementia}
+      \field{volume}{322}
+      \field{year}{2019}
+      \field{pages}{430\bibrangedash 437}
+      \range{pages}{8}
     \endentry
     \entry{maroco2011_data_mining_dementia}{article}{}{}
       \name{author}{6}{}{%
@@ -3561,6 +5385,151 @@
       \verb https://pubmed.ncbi.nlm.nih.gov/21158318/
       \endverb
     \endentry
+    \entry{ScikitLearnLDAQDA}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ae928b07781d0af9cd222cc0af04ec88}{%
+           family={Scikit-learn},
+           familyi={S\bibinithyphendelim l\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{fullhash}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{fullhashraw}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{bibnamehash}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{authorbibnamehash}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{authornamehash}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{authorfullhash}{ae928b07781d0af9cd222cc0af04ec88}
+      \strng{authorfullhashraw}{ae928b07781d0af9cd222cc0af04ec88}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-02-02}
+      \field{title}{1.2. Linear and Quadratic Discriminant Analysis}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://scikit-learn.org/stable/modules/lda_qda.html
+      \endverb
+      \verb{url}
+      \verb https://scikit-learn.org/stable/modules/lda_qda.html
+      \endverb
+    \endentry
+    \entry{Shariatnia2022}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5e1073a3f077faf6b0f1d7dc8b7ac2ce}{%
+           family={Shariatnia},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=707df94a94b7c001d093689fc687efe9}{%
+           family={Ziaratban},
+           familyi={Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11cb19f32b551e5a555a6b4022dd543b}{%
+           family={Rajabi},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{15d0943c7407d731f971c7d1f2899acb}
+      \strng{fullhash}{cdac1c6a119f4b170b642840b8e2268a}
+      \strng{fullhashraw}{cdac1c6a119f4b170b642840b8e2268a}
+      \strng{bibnamehash}{cdac1c6a119f4b170b642840b8e2268a}
+      \strng{authorbibnamehash}{cdac1c6a119f4b170b642840b8e2268a}
+      \strng{authornamehash}{15d0943c7407d731f971c7d1f2899acb}
+      \strng{authorfullhash}{cdac1c6a119f4b170b642840b8e2268a}
+      \strng{authorfullhashraw}{cdac1c6a119f4b170b642840b8e2268a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Medical Informatics and Decision Making}
+      \field{title}{Modeling the diagnosis of coronary artery disease by discriminant analysis and logistic regression: a cross-sectional study}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{pages}{85}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12911-022-01823-8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s12911-022-01823-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s12911-022-01823-8
+      \endverb
+    \endentry
+    \entry{Silva2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=dd3b495b96e0a35969a51fe8a8ea24fb}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi V.\bibnamedelimi F.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33d152c6c3c5346d86784cc3b5bb9659}{%
+           family={Loures},
+           familyi={L\bibinitperiod},
+           given={C.\bibnamedelimi d.\bibnamedelimi M.\bibnamedelimi G.},
+           giveni={C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22722562fb39f7b3154f8573feb25bc0}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={L.\bibnamedelimi C.\bibnamedelimi V.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{e21b56fe78d5adad38116234f1ebc164}
+      \strng{fullhash}{6b7fad254e9ed442b6f074597adeaea4}
+      \strng{fullhashraw}{6b7fad254e9ed442b6f074597adeaea4}
+      \strng{bibnamehash}{6b7fad254e9ed442b6f074597adeaea4}
+      \strng{authorbibnamehash}{6b7fad254e9ed442b6f074597adeaea4}
+      \strng{authornamehash}{e21b56fe78d5adad38116234f1ebc164}
+      \strng{authorfullhash}{6b7fad254e9ed442b6f074597adeaea4}
+      \strng{authorfullhashraw}{6b7fad254e9ed442b6f074597adeaea4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Biomedical Science}
+      \field{title}{Alzheimer’s disease: risk factors and potentially protective measures}
+      \field{volume}{26}
+      \field{year}{2019}
+      \field{pages}{33}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12929-019-0524-y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s12929-019-0524-y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s12929-019-0524-y
+      \endverb
+    \endentry
     \entry{sperling2011}{article}{}{}
       \name{author}{21}{}{%
         {{un=0,uniquepart=base,hash=c6f2dc574dfc5425c0300dd8eeea36fa}{%
@@ -3825,6 +5794,53 @@
       \field{pages}{75\bibrangedash 89}
       \range{pages}{15}
     \endentry
+    \entry{Wu2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=802a51f0f07faf2772a82dd42d6a42f2}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Ruiyang},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85c47af798409a086c654605631bb6be}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{fullhash}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{fullhashraw}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{bibnamehash}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{authorbibnamehash}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{authornamehash}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{authorfullhash}{d0d35b816899abf815187f1ca9a4cef0}
+      \strng{authorfullhashraw}{d0d35b816899abf815187f1ca9a4cef0}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0047-259X}
+      \field{journaltitle}{Journal of Multivariate Analysis}
+      \field{title}{Quadratic discriminant analysis by projection}
+      \field{volume}{190}
+      \field{year}{2022}
+      \field{pages}{104987}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jmva.2022.104987
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.jmva.2022.104987
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.jmva.2022.104987
+      \endverb
+    \endentry
     \entry{yilmaz2021_metabolic_biomarkers_ad}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=0f4828cc8b0ae07ca780c9b2db46efc1}{%
@@ -3930,7 +5946,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{Cummings2017}
 \endrefsection
 \endinput
 

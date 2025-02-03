@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  3 FEB 2025 06:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  4 FEB 2025 01:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -771,15 +771,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Cummings2017
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 65.
 Package biblatex Info: Reference segment=0 on input line 65.
 
@@ -807,6 +799,29 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 [1{/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
  <./PUPLogo.png>]
+Overfull \hbox (2.9921pt too wide) in paragraph at lines 92--119
+[]  [] 
+ []
+
+
+Overfull \hbox (20.40808pt too wide) in paragraph at lines 120--123
+\OT1/cmr/bx/n/10.95 Keywords: \OT1/cmr/m/it/10.95 Lin-ear Dis-crim-i-nant Model, Quadratic Dis-crim-i-nant Model, Alzheimer's
+ []
+
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 126.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[1]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: letterpaper
@@ -843,7 +858,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 20.
+Package pdftex.def Info: PUPLogo.png  used on input line 21.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -858,7 +873,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 41.
+Package pdftex.def Info: PUPLogo.png  used on input line 42.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -875,7 +890,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 99.
+Package pdftex.def Info: PUPLogo.png  used on input line 133.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -888,7 +903,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 133.
+Package pdftex.def Info: PUPLogo.png  used on input line 167.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -903,7 +918,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 145.
+Package pdftex.def Info: PUPLogo.png  used on input line 179.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -916,7 +931,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 169.
+Package pdftex.def Info: PUPLogo.png  used on input line 203.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -929,7 +944,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 191.
+Package pdftex.def Info: PUPLogo.png  used on input line 225.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -942,7 +957,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 206.
+Package pdftex.def Info: PUPLogo.png  used on input line 240.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -955,7 +970,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 209.
+Package pdftex.def Info: PUPLogo.png  used on input line 243.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -968,7 +983,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 229.
+Package pdftex.def Info: PUPLogo.png  used on input line 264.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -979,13 +994,9 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 [7]
 
-LaTeX Warning: Citation 'Cummings2017' on page 8 undefined on input line 239.
-
-
-
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 240.
+Package pdftex.def Info: PUPLogo.png  used on input line 272.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -995,15 +1006,10 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
 [8]
-Overfull \hbox (7.87367pt too wide) in paragraph at lines 244--246
-[]\OT1/cmr/m/n/12 Linear Dis-crim-i-nant Anal-y-sis (LDA) and Quadratic Dis-crim-i-nant Anal-y-sis (QDA)
- []
-
-
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 253.
+Package pdftex.def Info: PUPLogo.png  used on input line 282.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1016,7 +1022,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 264.
+Package pdftex.def Info: PUPLogo.png  used on input line 294.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1029,7 +1035,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 281.
+Package pdftex.def Info: PUPLogo.png  used on input line 304.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1042,7 +1048,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 293.
+Package pdftex.def Info: PUPLogo.png  used on input line 317.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1052,10 +1058,15 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
 [12]
+Overfull \hbox (7.87367pt too wide) in paragraph at lines 329--331
+[]\OT1/cmr/m/n/12 Linear Dis-crim-i-nant Anal-y-sis (LDA) and Quadratic Dis-crim-i-nant Anal-y-sis (QDA)
+ []
+
+
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 296.
+Package pdftex.def Info: PUPLogo.png  used on input line 331.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1065,15 +1076,10 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 313--315
-
- []
-
-
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 319.
+Package pdftex.def Info: PUPLogo.png  used on input line 342.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1086,7 +1092,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 363.
+Package pdftex.def Info: PUPLogo.png  used on input line 354.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1099,7 +1105,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 378.
+Package pdftex.def Info: PUPLogo.png  used on input line 366.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1109,10 +1115,15 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
 [16]
+Overfull \hbox (14.67004pt too wide) in paragraph at lines 382--383
+\OT1/cmr/m/n/12 noses, par-tic-u-larly for Alzheimer's dis-ease (AD). Alzheimer's, de-scribed by the Alzheimer's
+ []
+
+
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 397.
+Package pdftex.def Info: PUPLogo.png  used on input line 383.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1125,7 +1136,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 401.
+Package pdftex.def Info: PUPLogo.png  used on input line 385.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1135,40 +1146,123 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
 [18]
-<QQ_Lifestyle.png, id=84, 1003.75pt x 893.3375pt>
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 391.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 413--415
+
+ []
+
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 415.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[20]
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 456.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[21]
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 478.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[22]
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 491.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[23]
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 501.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[24]
+<QQ_Lifestyle.png, id=106, 1003.75pt x 893.3375pt>
 File: QQ_Lifestyle.png Graphic file (type png)
 <use QQ_Lifestyle.png>
-Package pdftex.def Info: QQ_Lifestyle.png  used on input line 410.
+Package pdftex.def Info: QQ_Lifestyle.png  used on input line 512.
 (pdftex.def)             Requested size: 352.6793pt x 313.88599pt.
-<QQ_Clinical Measures.png, id=85, 1003.75pt x 893.3375pt>
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 518.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[25 <./QQ_Lifestyle.png>]
+<QQ_Clinical Measures.png, id=111, 1003.75pt x 893.3375pt>
 File: QQ_Clinical Measures.png Graphic file (type png)
 <use QQ_Clinical Measures.png>
-Package pdftex.def Info: QQ_Clinical Measures.png  used on input line 419.
+Package pdftex.def Info: QQ_Clinical Measures.png  used on input line 519.
 (pdftex.def)             Requested size: 352.6793pt x 313.88599pt.
-
-
-File: PUPLogo.png Graphic file (type png)
-<use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 420.
-(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
-
-Package fancyhdr Warning: \headheight is too small (95.0pt): 
-(fancyhdr)                Make it at least 98.06946pt, for example:
-(fancyhdr)                \setlength{\headheight}{98.06946pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
-
-[19 <./QQ_Lifestyle.png>]
-<QQ_Cog and Funcs.png, id=90, 1003.75pt x 893.3375pt>
+<QQ_Cog and Funcs.png, id=112, 1003.75pt x 893.3375pt>
 File: QQ_Cog and Funcs.png Graphic file (type png)
 <use QQ_Cog and Funcs.png>
-Package pdftex.def Info: QQ_Cog and Funcs.png  used on input line 428.
-(pdftex.def)             Requested size: 352.6793pt x 313.88599pt.
+Package pdftex.def Info: QQ_Cog and Funcs.png  used on input line 526.
+(pdftex.def)             Requested size: 220.42372pt x 196.16681pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 429.
+Package pdftex.def Info: PUPLogo.png  used on input line 527.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1177,11 +1271,11 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[20 <./QQ_Clinical Measures.png>]
+[26 <./QQ_Clinical Measures.png>]
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 453.
+Package pdftex.def Info: PUPLogo.png  used on input line 542.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1190,17 +1284,17 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[21 <./QQ_Cog and Funcs.png>]
-<Lifestyle Distributions.png, id=102, 1606.0pt x 893.3375pt>
+[27 <./QQ_Cog and Funcs.png>]
+<Lifestyle Distributions.png, id=122, 1606.0pt x 893.3375pt>
 File: Lifestyle Distributions.png Graphic file (type png)
 <use Lifestyle Distributions.png>
-Package pdftex.def Info: Lifestyle Distributions.png  used on input line 459.
+Package pdftex.def Info: Lifestyle Distributions.png  used on input line 565.
 (pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 467.
+Package pdftex.def Info: PUPLogo.png  used on input line 566.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1209,17 +1303,17 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[22 <./Lifestyle Distributions.png>]
-<Clinical Measures Distribution.png, id=107, 1606.0pt x 893.3375pt>
+[28]
+<Clinical Measures Distribution.png, id=128, 1606.0pt x 893.3375pt>
 File: Clinical Measures Distribution.png Graphic file (type png)
 <use Clinical Measures Distribution.png>
-Package pdftex.def Info: Clinical Measures Distribution.png  used on input line 473.
+Package pdftex.def Info: Clinical Measures Distribution.png  used on input line 579.
 (pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 482.
+Package pdftex.def Info: PUPLogo.png  used on input line 580.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1228,22 +1322,36 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[23 <./Clinical Measures Distribution.png>]
-<Cognitive and Functional Distributions.png, id=112, 1606.0pt x 602.25pt>
+[29 <./Lifestyle Distributions.png>]
+<Cognitive and Functional Distributions.png, id=133, 1606.0pt x 602.25pt>
 File: Cognitive and Functional Distributions.png Graphic file (type png)
 <use Cognitive and Functional Distributions.png>
-Package pdftex.def Info: Cognitive and Functional Distributions.png  used on input line 483.
+Package pdftex.def Info: Cognitive and Functional Distributions.png  used on input line 589.
 (pdftex.def)             Requested size: 352.6793pt x 132.25647pt.
-<PartitionLDA.png, id=113, 4818.0pt x 4818.0pt>
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 595.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[30 <./Clinical Measures Distribution.png> <./Cognitive and Functional Distributions.png>]
+<PartitionLDA.png, id=139, 4818.0pt x 4818.0pt>
 File: PartitionLDA.png Graphic file (type png)
 <use PartitionLDA.png>
-Package pdftex.def Info: PartitionLDA.png  used on input line 496.
+Package pdftex.def Info: PartitionLDA.png  used on input line 602.
 (pdftex.def)             Requested size: 352.6793pt x 352.65945pt.
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 497.
+Package pdftex.def Info: PUPLogo.png  used on input line 603.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1252,174 +1360,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[24 <./Cognitive and Functional Distributions.png>]
-
-File: PUPLogo.png Graphic file (type png)
-<use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 507.
-(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
-
-Package fancyhdr Warning: \headheight is too small (95.0pt): 
-(fancyhdr)                Make it at least 98.06946pt, for example:
-(fancyhdr)                \setlength{\headheight}{98.06946pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
-
-[25 <./PartitionLDA.png (PNG copy)>]
-<PartitionQDA.png, id=121, 4818.0pt x 4818.0pt>
-File: PartitionQDA.png Graphic file (type png)
-<use PartitionQDA.png>
-Package pdftex.def Info: PartitionQDA.png  used on input line 508.
-(pdftex.def)             Requested size: 352.6793pt x 352.65945pt.
-
-
-File: PUPLogo.png Graphic file (type png)
-<use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 515.
-(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
-
-Package fancyhdr Warning: \headheight is too small (95.0pt): 
-(fancyhdr)                Make it at least 98.06946pt, for example:
-(fancyhdr)                \setlength{\headheight}{98.06946pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
-
-[26 <./PartitionQDA.png (PNG copy)>]
-<Required Number of Features.png, id=125, 1606.0pt x 893.3375pt>
-File: Required Number of Features.png Graphic file (type png)
-<use Required Number of Features.png>
-Package pdftex.def Info: Required Number of Features.png  used on input line 520.
-(pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
-
-
-File: PUPLogo.png Graphic file (type png)
-<use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 529.
-(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
-
-Package fancyhdr Warning: \headheight is too small (95.0pt): 
-(fancyhdr)                Make it at least 98.06946pt, for example:
-(fancyhdr)                \setlength{\headheight}{98.06946pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
-
-[27 <./Required Number of Features.png>]
-<RFE Feature Selection.png, id=131, 1606.0pt x 893.3375pt>
-File: RFE Feature Selection.png Graphic file (type png)
-<use RFE Feature Selection.png>
-Package pdftex.def Info: RFE Feature Selection.png  used on input line 530.
-(pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
-<LDA_RFE.png, id=132, 540.51938pt x 214.55156pt>
-File: LDA_RFE.png Graphic file (type png)
-<use LDA_RFE.png>
-Package pdftex.def Info: LDA_RFE.png  used on input line 540.
-(pdftex.def)             Requested size: 352.6793pt x 139.99374pt.
-
-
-File: PUPLogo.png Graphic file (type png)
-<use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 541.
-(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
-
-Package fancyhdr Warning: \headheight is too small (95.0pt): 
-(fancyhdr)                Make it at least 98.06946pt, for example:
-(fancyhdr)                \setlength{\headheight}{98.06946pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
-
-[28 <./RFE Feature Selection.png>]
-<QDA_RFE.png, id=137, 540.51938pt x 214.55156pt>
-File: QDA_RFE.png Graphic file (type png)
-<use QDA_RFE.png>
-Package pdftex.def Info: QDA_RFE.png  used on input line 550.
-(pdftex.def)             Requested size: 352.6793pt x 139.99374pt.
-
-
-File: PUPLogo.png Graphic file (type png)
-<use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 558.
-(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
-
-Package fancyhdr Warning: \headheight is too small (95.0pt): 
-(fancyhdr)                Make it at least 98.06946pt, for example:
-(fancyhdr)                \setlength{\headheight}{98.06946pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
-
-[29 <./LDA_RFE.png (PNG copy)> <./QDA_RFE.png (PNG copy)>]
-<Coefficient vs Log Lambda.png, id=141, 1606.0pt x 893.3375pt>
-File: Coefficient vs Log Lambda.png Graphic file (type png)
-<use Coefficient vs Log Lambda.png>
-Package pdftex.def Info: Coefficient vs Log Lambda.png  used on input line 559.
-(pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
-<Binomial Deviance vs Log Lambda.png, id=142, 1606.0pt x 893.3375pt>
-File: Binomial Deviance vs Log Lambda.png Graphic file (type png)
-<use Binomial Deviance vs Log Lambda.png>
-Package pdftex.def Info: Binomial Deviance vs Log Lambda.png  used on input line 569.
-(pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
-
-
-File: PUPLogo.png Graphic file (type png)
-<use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 570.
-(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
-
-Package fancyhdr Warning: \headheight is too small (95.0pt): 
-(fancyhdr)                Make it at least 98.06946pt, for example:
-(fancyhdr)                \setlength{\headheight}{98.06946pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
-
-[30 <./Coefficient vs Log Lambda.png>]
-<Lasso Feature Selection.png, id=147, 1417.295pt x 893.3375pt>
-File: Lasso Feature Selection.png Graphic file (type png)
-<use Lasso Feature Selection.png>
-Package pdftex.def Info: Lasso Feature Selection.png  used on input line 578.
-(pdftex.def)             Requested size: 352.6793pt x 222.29785pt.
-
-
-File: PUPLogo.png Graphic file (type png)
-<use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 582.
-(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
-
-Package fancyhdr Warning: \headheight is too small (95.0pt): 
-(fancyhdr)                Make it at least 98.06946pt, for example:
-(fancyhdr)                \setlength{\headheight}{98.06946pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
-
-[31 <./Binomial Deviance vs Log Lambda.png> <./Lasso Feature Selection.png>]
-<Lasso_Reduced_LDA.png, id=153, 1606.0pt x 893.3375pt>
-File: Lasso_Reduced_LDA.png Graphic file (type png)
-<use Lasso_Reduced_LDA.png>
-Package pdftex.def Info: Lasso_Reduced_LDA.png  used on input line 587.
-(pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
-<Partimat_QDA_Lasso.png, id=154, 1606.0pt x 893.3375pt>
-File: Partimat_QDA_Lasso.png Graphic file (type png)
-<use Partimat_QDA_Lasso.png>
-Package pdftex.def Info: Partimat_QDA_Lasso.png  used on input line 596.
-(pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
-
-
-File: PUPLogo.png Graphic file (type png)
-<use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 597.
-(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
-
-Package fancyhdr Warning: \headheight is too small (95.0pt): 
-(fancyhdr)                Make it at least 98.06946pt, for example:
-(fancyhdr)                \setlength{\headheight}{98.06946pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
-
-[32 <./Lasso_Reduced_LDA.png>]
-<Accuracy_Line_plots.png, id=159, 1491.5725pt x 893.3375pt>
-File: Accuracy_Line_plots.png Graphic file (type png)
-<use Accuracy_Line_plots.png>
-Package pdftex.def Info: Accuracy_Line_plots.png  used on input line 605.
-(pdftex.def)             Requested size: 352.6793pt x 211.21567pt.
-
+[31]
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
@@ -1432,11 +1373,17 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[33 <./Partimat_QDA_Lasso.png> <./Accuracy_Line_plots.png>]
+[32 <./PartitionLDA.png (PNG copy)>]
+<PartitionQDA.png, id=147, 4818.0pt x 4818.0pt>
+File: PartitionQDA.png Graphic file (type png)
+<use PartitionQDA.png>
+Package pdftex.def Info: PartitionQDA.png  used on input line 614.
+(pdftex.def)             Requested size: 352.6793pt x 352.65945pt.
+
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 619.
+Package pdftex.def Info: PUPLogo.png  used on input line 621.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1445,31 +1392,289 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[34]
-Overfull \hbox (8.41273pt too wide) in paragraph at lines 623--623
+[33 <./PartitionQDA.png (PNG copy)>]
+<Required Number of Features.png, id=151, 1606.0pt x 893.3375pt>
+File: Required Number of Features.png Graphic file (type png)
+<use Required Number of Features.png>
+Package pdftex.def Info: Required Number of Features.png  used on input line 626.
+(pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 635.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[34 <./Required Number of Features.png>]
+<RFE Feature Selection.png, id=156, 1606.0pt x 893.3375pt>
+File: RFE Feature Selection.png Graphic file (type png)
+<use RFE Feature Selection.png>
+Package pdftex.def Info: RFE Feature Selection.png  used on input line 636.
+(pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
+<LDA_RFE.png, id=157, 540.51938pt x 214.55156pt>
+File: LDA_RFE.png Graphic file (type png)
+<use LDA_RFE.png>
+Package pdftex.def Info: LDA_RFE.png  used on input line 646.
+(pdftex.def)             Requested size: 352.6793pt x 139.99374pt.
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 647.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[35 <./RFE Feature Selection.png>]
+<QDA_RFE.png, id=162, 540.51938pt x 214.55156pt>
+File: QDA_RFE.png Graphic file (type png)
+<use QDA_RFE.png>
+Package pdftex.def Info: QDA_RFE.png  used on input line 656.
+(pdftex.def)             Requested size: 352.6793pt x 139.99374pt.
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 664.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[36 <./LDA_RFE.png (PNG copy)> <./QDA_RFE.png (PNG copy)>]
+<Coefficient vs Log Lambda.png, id=166, 1606.0pt x 893.3375pt>
+File: Coefficient vs Log Lambda.png Graphic file (type png)
+<use Coefficient vs Log Lambda.png>
+Package pdftex.def Info: Coefficient vs Log Lambda.png  used on input line 665.
+(pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
+<Binomial Deviance vs Log Lambda.png, id=167, 1606.0pt x 893.3375pt>
+File: Binomial Deviance vs Log Lambda.png Graphic file (type png)
+<use Binomial Deviance vs Log Lambda.png>
+Package pdftex.def Info: Binomial Deviance vs Log Lambda.png  used on input line 675.
+(pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 676.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[37 <./Coefficient vs Log Lambda.png>]
+<Lasso Feature Selection.png, id=172, 1417.295pt x 893.3375pt>
+File: Lasso Feature Selection.png Graphic file (type png)
+<use Lasso Feature Selection.png>
+Package pdftex.def Info: Lasso Feature Selection.png  used on input line 684.
+(pdftex.def)             Requested size: 352.6793pt x 222.29785pt.
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 688.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[38 <./Binomial Deviance vs Log Lambda.png> <./Lasso Feature Selection.png>]
+<Lasso_Reduced_LDA.png, id=179, 1606.0pt x 893.3375pt>
+File: Lasso_Reduced_LDA.png Graphic file (type png)
+<use Lasso_Reduced_LDA.png>
+Package pdftex.def Info: Lasso_Reduced_LDA.png  used on input line 693.
+(pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 699.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[39 <./Lasso_Reduced_LDA.png>]
+<Partimat_QDA_Lasso.png, id=184, 1606.0pt x 893.3375pt>
+File: Partimat_QDA_Lasso.png Graphic file (type png)
+<use Partimat_QDA_Lasso.png>
+Package pdftex.def Info: Partimat_QDA_Lasso.png  used on input line 704.
+(pdftex.def)             Requested size: 352.6793pt x 196.18044pt.
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 710.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[40 <./Partimat_QDA_Lasso.png>]
+<Accuracy_Line_plots.png, id=189, 1491.5725pt x 893.3375pt>
+File: Accuracy_Line_plots.png Graphic file (type png)
+<use Accuracy_Line_plots.png>
+Package pdftex.def Info: Accuracy_Line_plots.png  used on input line 715.
+(pdftex.def)             Requested size: 352.6793pt x 211.21567pt.
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 723.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[41 <./Accuracy_Line_plots.png>]
+
+LaTeX Warning: Command \textless invalid in math mode on input line 732.
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 732.
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 732.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 732.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 733.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 733.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 734.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 734.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 735.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 735.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 736.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 736.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 737.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 737.
+
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 750.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[42]
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 767.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[43]
+Overfull \hbox (0.78471pt too wide) in paragraph at lines 768--769
+[]\OT1/cmr/m/n/12 Overall, for Alzheimer's dis-ease pre-dic-tion, Quadratic mod-els in gen-eral achieved
+ []
+
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 782.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[44]
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 785.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[45]
+Overfull \hbox (8.41273pt too wide) in paragraph at lines 789--789
 [][]\OT1/cmr/m/n/12 Arbabshirani, M. R., Plis, S., Sui, J., & Cal-houn, V. D. (2017). A re-view on neuroimaging-
  []
 
 
-Overfull \hbox (20.50256pt too wide) in paragraph at lines 623--623
+Overfull \hbox (20.50256pt too wide) in paragraph at lines 789--789
 \OT1/cmr/m/n/12 based clas-si-fi-ca-tion stud-ies and as-so-ci-ated fea-ture ex-trac-tion meth-ods for alzheimer's
  []
 
 
-Overfull \hbox (23.16878pt too wide) in paragraph at lines 623--623
+Overfull \hbox (23.16878pt too wide) in paragraph at lines 789--789
 \OT1/cmr/m/n/12 net / publication / 374803499[]Alzheimer[]Disease[]Prediction[]Using[]Recursive[]Feature[]
- []
-
-
-Overfull \hbox (42.46231pt too wide) in paragraph at lines 623--623
-\OT1/cmr/m/n/12 researchgate . net / publication / 361057550[]A[]Functional[]Assessment[]Tool[]to[]Distinguish[]
  []
 
 
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 622.
+Package pdftex.def Info: PUPLogo.png  used on input line 788.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1478,8 +1683,44 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[35]
-Overfull \hbox (7.67975pt too wide) in paragraph at lines 623--623
+[46]
+Overfull \hbox (42.46231pt too wide) in paragraph at lines 789--789
+\OT1/cmr/m/n/12 researchgate . net / publication / 361057550[]A[]Functional[]Assessment[]Tool[]to[]Distinguish[]
+ []
+
+
+Overfull \hbox (18.93877pt too wide) in paragraph at lines 789--789
+\OT1/cmr/m/it/12 Re-search\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 13\OT1/cmr/m/n/12 (11), 1200{1207. $https : / / doi . org / 10 . 2174 / 1567205013666160401115127$ 
+ []
+
+
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 788.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[47]
+
+File: PUPLogo.png Graphic file (type png)
+<use PUPLogo.png>
+Package pdftex.def Info: PUPLogo.png  used on input line 788.
+(pdftex.def)             Requested size: 50.0pt x 49.99765pt.
+
+Package fancyhdr Warning: \headheight is too small (95.0pt): 
+(fancyhdr)                Make it at least 98.06946pt, for example:
+(fancyhdr)                \setlength{\headheight}{98.06946pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
+
+[48]
+Overfull \hbox (7.67975pt too wide) in paragraph at lines 789--789
 \OT1/cmr/m/n/12 Elements[]of[]Statistical[]Learning[]Data[]Mining[]Inference[]and[]Prediction[]Second[]
  []
 
@@ -1487,7 +1728,7 @@ Overfull \hbox (7.67975pt too wide) in paragraph at lines 623--623
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 622.
+Package pdftex.def Info: PUPLogo.png  used on input line 788.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1496,11 +1737,11 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[36]
+[49]
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 622.
+Package pdftex.def Info: PUPLogo.png  used on input line 788.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1509,8 +1750,8 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[37]
-Overfull \hbox (16.66931pt too wide) in paragraph at lines 623--623
+[50]
+Overfull \hbox (16.66931pt too wide) in paragraph at lines 789--789
 \OT1/cmr/m/n/12 news -[] events / news -[] releases / combination -[] healthy -[] lifestyle -[] traits -[] may -[] substantially -[]
  []
 
@@ -1518,7 +1759,7 @@ Overfull \hbox (16.66931pt too wide) in paragraph at lines 623--623
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 622.
+Package pdftex.def Info: PUPLogo.png  used on input line 788.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1527,11 +1768,11 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[38]
+[51]
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 622.
+Package pdftex.def Info: PUPLogo.png  used on input line 788.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1540,11 +1781,11 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[39]
+[52]
 
 File: PUPLogo.png Graphic file (type png)
 <use PUPLogo.png>
-Package pdftex.def Info: PUPLogo.png  used on input line 624.
+Package pdftex.def Info: PUPLogo.png  used on input line 790.
 (pdftex.def)             Requested size: 50.0pt x 49.99765pt.
 
 Package fancyhdr Warning: \headheight is too small (95.0pt): 
@@ -1553,7 +1794,7 @@ Package fancyhdr Warning: \headheight is too small (95.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-3.06946pt}.
 
-[40] (./main.aux)
+[53] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
@@ -1563,18 +1804,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24900 strings out of 474781
- 498390 string characters out of 5753920
- 1383740 words of memory out of 5000000
- 47466 multiletter control sequences out of 15000+600000
- 565721 words of font info for 66 fonts, out of 8000000 for 9000
+ 25044 strings out of 474781
+ 503067 string characters out of 5753920
+ 1384986 words of memory out of 5000000
+ 47606 multiletter control sequences out of 15000+600000
+ 568260 words of font info for 75 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 84i,16n,93p,1300b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (44 pages, 11910911 bytes).
+ 84i,17n,93p,1383b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </Users/almerstaines/Library/texlive/2024basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (58 pages, 11947430 bytes).
 PDF statistics:
- 226 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
+ 275 PDF objects out of 1000 (max. 8388607)
+ 162 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
